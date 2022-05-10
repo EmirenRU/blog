@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>lab | Academic</title>
+    <link>https://example.com/tag/lab/</link>
+      <atom:link href="https://example.com/tag/lab/index.xml" rel="self" type="application/rss+xml" />
+    <description>lab</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 05 May 2022 22:44:37 +0300</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>lab</title>
+      <link>https://example.com/tag/lab/</link>
+    </image>
+    
+    <item>
+      <title>Lab</title>
+      <link>https://example.com/post/last_week/</link>
+      <pubDate>Thu, 05 May 2022 22:44:37 +0300</pubDate>
+      <guid>https://example.com/post/last_week/</guid>
+      <description>&lt;h1 id=&#34;цель-работы&#34;&gt;Цель Работы&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Приобретение практических навыков взаимодействия пользователя с системой посредством командной строки&lt;/strong&gt;&lt;/p&gt;
+&lt;h1 id=&#34;ход-работы&#34;&gt;Ход Работы&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Определили полное имя домашнего каталога.(рис. [-@fig:001])&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Определили с помощью команды pwd&#34; srcset=&#34;
+               /post/last_week/Images/1_hue4c4a161bf00fd7e11f3675fa5f63eb9_240308_241780ab0ce8ce7a166ff749e26d2289.webp 400w,
+               /post/last_week/Images/1_hue4c4a161bf00fd7e11f3675fa5f63eb9_240308_6186fe9b4653f5b91fd0db57dd2f60c2.webp 760w,
+               /post/last_week/Images/1_hue4c4a161bf00fd7e11f3675fa5f63eb9_240308_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/post/last_week/Images/1_hue4c4a161bf00fd7e11f3675fa5f63eb9_240308_241780ab0ce8ce7a166ff749e26d2289.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;417&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{ #fig:001 width=70% }&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;ul&gt;
+&lt;li&gt;Перешли в каталог /tmp .(рис. [-@fig:002])&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Переход в каталог /tmp&#34; srcset=&#34;
+               /post/last_week/Images/2.1_hu73a29dabca78da57929d71920fa10d4b_239630_c54677e76668a4e8db07942dad6fd7f8.webp 400w,
+               /post/last_week/Images/2.1_hu73a29dabca78da57929d71920fa10d4b_239630_26eef863a1991ea032f67279684adfd8.webp 760w,
+               /post/last_week/Images/2.1_hu73a29dabca78da57929d71920fa10d4b_239630_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/post/last_week/Images/2.1_hu73a29dabca78da57929d71920fa10d4b_239630_c54677e76668a4e8db07942dad6fd7f8.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;419&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{ #fig:002 width=70% }&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Вывели  содержимое каталога /tmp с опцией -a.(рис. [-@fig:003])&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Вывод содержимого с помощью ls -a&#34; srcset=&#34;
+               /post/last_week/Images/2.2.1_huf86b49d240fcee802fb21309b1739fac_262639_ee17cf6b3efd78d28c8a1d60f1abf9a7.webp 400w,
+               /post/last_week/Images/2.2.1_huf86b49d240fcee802fb21309b1739fac_262639_c68bb855186b4e4b93613c564dddad3e.webp 760w,
+               /post/last_week/Images/2.2.1_huf86b49d240fcee802fb21309b1739fac_262639_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/post/last_week/Images/2.2.1_huf86b49d240fcee802fb21309b1739fac_262639_ee17cf6b3efd78d28c8a1d60f1abf9a7.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;419&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{ #fig:003 width=70% }&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Вывели содержимое с опцией -l.(рис. [-@fig:004])&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Вывод содержимого с помощью ls -l&#34; srcset=&#34;
+               /post/last_week/Images/2.2.2_huc48f3fd92d23354d576a7bee7e021276_286050_4515a3e9eb4684221e6f4a20a2de047d.webp 400w,
+               /post/last_week/Images/2.2.2_huc48f3fd92d23354d576a7bee7e021276_286050_43d49743c24875fbd8ecd842574af854.webp 760w,
+               /post/last_week/Images/2.2.2_huc48f3fd92d23354d576a7bee7e021276_286050_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/post/last_week/Images/2.2.2_huc48f3fd92d23354d576a7bee7e021276_286050_4515a3e9eb4684221e6f4a20a2de047d.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;418&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{ #fig:004 width=70% }&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Попробовали найти каталог cron в каталоге /var/spool .(рис. [-@fig:005])&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Нахождение cron&#34; srcset=&#34;
+               /post/last_week/Images/2.3_hu4af3356f097f1100e57571e484cc066f_276725_bafacf37ba74bce69a1c688fafd507c8.webp 400w,
+               /post/last_week/Images/2.3_hu4af3356f097f1100e57571e484cc066f_276725_2914e434e9c375cc8b90b3bda1b323db.webp 760w,
+               /post/last_week/Images/2.3_hu4af3356f097f1100e57571e484cc066f_276725_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/post/last_week/Images/2.3_hu4af3356f097f1100e57571e484cc066f_276725_bafacf37ba74bce69a1c688fafd507c8.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;419&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{ #fig:005 width=70% }&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Перешли в домашний каталог и вывели его содержимое.(рис. [-@fig:006])&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Вывод содержимового дом.катаога&#34; srcset=&#34;
+               /post/last_week/Images/2.4_hu20476f2c2d272bccd27187cbe02da7ee_279057_b0a606767b15ffadf6e4406e9571122a.webp 400w,
+               /post/last_week/Images/2.4_hu20476f2c2d272bccd27187cbe02da7ee_279057_3c29c3d79f5eade317c3f562064bda15.webp 760w,
+               /post/last_week/Images/2.4_hu20476f2c2d272bccd27187cbe02da7ee_279057_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/post/last_week/Images/2.4_hu20476f2c2d272bccd27187cbe02da7ee_279057_b0a606767b15ffadf6e4406e9571122a.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;419&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{ #fig:006 width=70% }&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;ul&gt;
+&lt;li&gt;Создал каталоги newdir и создал в нем каталог morefun и проверил на их наличие.(рис. [-@fig:007])&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Cоздание newdir &amp;#43; newdir/morefun&#34; srcset=&#34;
+               /post/last_week/Images/3.1_hu4d3afbabc75d4374393007854403772b_249028_ff6f433d3acbe52ea76f37ba5228b694.webp 400w,
+               /post/last_week/Images/3.1_hu4d3afbabc75d4374393007854403772b_249028_bc869be2e58accb808e15b56518d02f3.webp 760w,
+               /post/last_week/Images/3.1_hu4d3afbabc75d4374393007854403772b_249028_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/post/last_week/Images/3.1_hu4d3afbabc75d4374393007854403772b_249028_ff6f433d3acbe52ea76f37ba5228b694.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;418&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{ #fig:007 width=70% }&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Создал в домашнем каталоге одной командой каталоги letters, memos, misk и после удалил их.(рис. [-@fig:008])&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Создание и удаление letters, memos, misk&#34; srcset=&#34;
+               /post/last_week/Images/3.3_hue8d6584a83b2092fa8dc01980a698097_246007_c4018755929ee5865c068348459da333.webp 400w,
+               /post/last_week/Images/3.3_hue8d6584a83b2092fa8dc01980a698097_246007_b7ebc82f0a2f1039e01ba72c782af5dc.webp 760w,
+               /post/last_week/Images/3.3_hue8d6584a83b2092fa8dc01980a698097_246007_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/post/last_week/Images/3.3_hue8d6584a83b2092fa8dc01980a698097_246007_c4018755929ee5865c068348459da333.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;420&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{ #fig:008 width=70% }&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Попробовали удалить каталог newdir с помощью команды rm, но не получилось. Используя опцию -r, получилось удалить.(рис. [-@fig:009])&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Удаление newdir &amp;#43; newdir/morefun&#34; srcset=&#34;
+               /post/last_week/Images/3.5_hu6aa15eea4e2ed9cb1b5fb498511ea43b_247813_d95b53fdf411f4b41e4289798eb8cb02.webp 400w,
+               /post/last_week/Images/3.5_hu6aa15eea4e2ed9cb1b5fb498511ea43b_247813_b60417a3a159247a8097cb4a8bce326f.webp 760w,
+               /post/last_week/Images/3.5_hu6aa15eea4e2ed9cb1b5fb498511ea43b_247813_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/post/last_week/Images/3.5_hu6aa15eea4e2ed9cb1b5fb498511ea43b_247813_d95b53fdf411f4b41e4289798eb8cb02.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;420&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{ #fig:009 width=70% }&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Посмотрели с помощью команды man ls и узнали о опции -R.(рис. [-@fig:010], [-@fig:011])&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Просмотр man&#34; srcset=&#34;
+               /post/last_week/Images/4.1_hu9ea4dc871864e8e0cdfcc0430e412dba_260013_f985e1c0668966366bc0e9f3074a1477.webp 400w,
+               /post/last_week/Images/4.1_hu9ea4dc871864e8e0cdfcc0430e412dba_260013_7c60aa5128020cbad91e256b6238f026.webp 760w,
+               /post/last_week/Images/4.1_hu9ea4dc871864e8e0cdfcc0430e412dba_260013_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/post/last_week/Images/4.1_hu9ea4dc871864e8e0cdfcc0430e412dba_260013_f985e1c0668966366bc0e9f3074a1477.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;420&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{ #fig:010 width=70% }&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Вопроизвели команду&#34; srcset=&#34;
+               /post/last_week/Images/4.2_hua944323e991389b5580dc1f0230639ea_239035_d7c6d7d371726f04074cbca874a4fe24.webp 400w,
+               /post/last_week/Images/4.2_hua944323e991389b5580dc1f0230639ea_239035_7efeed73cd6faf053a1be89ba690e6a9.webp 760w,
+               /post/last_week/Images/4.2_hua944323e991389b5580dc1f0230639ea_239035_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/post/last_week/Images/4.2_hua944323e991389b5580dc1f0230639ea_239035_d7c6d7d371726f04074cbca874a4fe24.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;419&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{ #fig:011 width=70% }&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Посмотрели с помощью man ls и узнали о опции -t.(рис. [-@fig:012], [-@fig:013])&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Посмотрели на man&#34; srcset=&#34;
+               /post/last_week/Images/5.1_hu4d645ff2fba14df69d533387c3116d67_278717_1215624b7cbc18b59beab4a048798e5e.webp 400w,
+               /post/last_week/Images/5.1_hu4d645ff2fba14df69d533387c3116d67_278717_01a203222c5dc4bb6b6760712b615df3.webp 760w,
+               /post/last_week/Images/5.1_hu4d645ff2fba14df69d533387c3116d67_278717_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/post/last_week/Images/5.1_hu4d645ff2fba14df69d533387c3116d67_278717_1215624b7cbc18b59beab4a048798e5e.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;419&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{ #fig:012 width=70% }&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Вопроизвели команду&#34; srcset=&#34;
+               /post/last_week/Images/5.2_hu4b1de79e5383bdb2a042635581f4a268_278666_90a280b93e2d0935f4233fa6611b7fff.webp 400w,
+               /post/last_week/Images/5.2_hu4b1de79e5383bdb2a042635581f4a268_278666_d626a8879bdd28012b5349929f6198da.webp 760w,
+               /post/last_week/Images/5.2_hu4b1de79e5383bdb2a042635581f4a268_278666_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/post/last_week/Images/5.2_hu4b1de79e5383bdb2a042635581f4a268_278666_90a280b93e2d0935f4233fa6611b7fff.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;417&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{ #fig:013 width=70% }&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Использовали man для просмотра описания команд: cd, pwd, mkdir, rmdir, rm.(рис. [-@fig:014], [-@fig:015], [-@fig:016], [-@fig:017], [-@fig:018])&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Использовали man cd&#34; srcset=&#34;
+               /post/last_week/Images/6.1_hu9d44c8c584c54eb646a7220596e6b72a_321992_36a221e2bc8080b9649ba3499e4df5a6.webp 400w,
+               /post/last_week/Images/6.1_hu9d44c8c584c54eb646a7220596e6b72a_321992_a6c90adc6d3f972b4ad58f2148a95026.webp 760w,
+               /post/last_week/Images/6.1_hu9d44c8c584c54eb646a7220596e6b72a_321992_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/post/last_week/Images/6.1_hu9d44c8c584c54eb646a7220596e6b72a_321992_36a221e2bc8080b9649ba3499e4df5a6.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;422&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{ #fig:014 width=70% }&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Использовали man pwd&#34; srcset=&#34;
+               /post/last_week/Images/6.2_hu5fbc17ff6f12de22267c7865a81ce04a_256368_635999477bd7607d68f423795c8b9117.webp 400w,
+               /post/last_week/Images/6.2_hu5fbc17ff6f12de22267c7865a81ce04a_256368_ed48ae512c44e98bde2d1ebad48cfbc9.webp 760w,
+               /post/last_week/Images/6.2_hu5fbc17ff6f12de22267c7865a81ce04a_256368_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/post/last_week/Images/6.2_hu5fbc17ff6f12de22267c7865a81ce04a_256368_635999477bd7607d68f423795c8b9117.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;418&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{ #fig:015 width=70% }&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Использовали man mkdir&#34; srcset=&#34;
+               /post/last_week/Images/6.3_huba280ab38fc25eead6678763b7e7cf27_260929_c5e2b6a25289f70961889f6c80f3285d.webp 400w,
+               /post/last_week/Images/6.3_huba280ab38fc25eead6678763b7e7cf27_260929_56cca2f3e2863e4f6f621c07f33401c9.webp 760w,
+               /post/last_week/Images/6.3_huba280ab38fc25eead6678763b7e7cf27_260929_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/post/last_week/Images/6.3_huba280ab38fc25eead6678763b7e7cf27_260929_c5e2b6a25289f70961889f6c80f3285d.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;419&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{ #fig:016 width=70% }&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Использовали man rmdir&#34; srcset=&#34;
+               /post/last_week/Images/6.4_hu8b153c74d38bb6669173ed56ea671828_258146_b0d4e5aa478f73f4d764ecf95e1dfbe2.webp 400w,
+               /post/last_week/Images/6.4_hu8b153c74d38bb6669173ed56ea671828_258146_c7aeac02521c33af7cdcd8ebca4f6df2.webp 760w,
+               /post/last_week/Images/6.4_hu8b153c74d38bb6669173ed56ea671828_258146_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/post/last_week/Images/6.4_hu8b153c74d38bb6669173ed56ea671828_258146_b0d4e5aa478f73f4d764ecf95e1dfbe2.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;420&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{ #fig:017 width=70% }&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Использовали man rm&#34; srcset=&#34;
+               /post/last_week/Images/6.5_hu6e5474fc2f11d1fb4f7d49f0304dbe06_271750_dadb71586aaaff38d5b6a07510b3c854.webp 400w,
+               /post/last_week/Images/6.5_hu6e5474fc2f11d1fb4f7d49f0304dbe06_271750_3214b214169ae55582aa49f561c86013.webp 760w,
+               /post/last_week/Images/6.5_hu6e5474fc2f11d1fb4f7d49f0304dbe06_271750_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/post/last_week/Images/6.5_hu6e5474fc2f11d1fb4f7d49f0304dbe06_271750_dadb71586aaaff38d5b6a07510b3c854.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;419&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{ #fig:0018 idth=70% }&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Используя информацию с history мы модифицировали и исполнили несколько команд из буфера.(рис. [-@fig:019])&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Модифицировали и исполнили&#34; srcset=&#34;
+               /post/last_week/Images/7.2_hu8fa1c3ef02d501c31c2d1d9d1ff91c58_271919_1f6eae107fd0dc0f1e688f03bf1e5d62.webp 400w,
+               /post/last_week/Images/7.2_hu8fa1c3ef02d501c31c2d1d9d1ff91c58_271919_49caf9cdc9d76383b44ac3c541bbb141.webp 760w,
+               /post/last_week/Images/7.2_hu8fa1c3ef02d501c31c2d1d9d1ff91c58_271919_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/post/last_week/Images/7.2_hu8fa1c3ef02d501c31c2d1d9d1ff91c58_271919_1f6eae107fd0dc0f1e688f03bf1e5d62.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;419&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{ #fig:019 width=70% }&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1 id=&#34;вывод&#34;&gt;Вывод&lt;/h1&gt;
+&lt;p&gt;Во время лабораторной работы, мы приобрели навыки взаимодействия пользователя с системой посредством командной строки и познакомились с команды и его опциями.&lt;/p&gt;
+&lt;h1 id=&#34;контрольные-вопросы&#34;&gt;Контрольные вопросы.&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;Командная строка позволяет пользователю взаимодействовать с системой, используя команды.&lt;/li&gt;
+&lt;li&gt;Команда pdf позволяет определить абсолютный путь. Пример: /home/easamigullin&lt;/li&gt;
+&lt;li&gt;При помощи команды ls с опцией -F позволяет узнать тип файлов и их имена в текущем каталоге. Пример: Downloads/&lt;/li&gt;
+&lt;li&gt;При помощи команды ls с опцией -a позволяет увидеть добавочно скрытые файлы. Пример: .ssh&lt;/li&gt;
+&lt;li&gt;При помощи rm можно удалять файлы и каталоги, только с каталогами надо добавить опцию -r. Пример: rm -r newdir&lt;/li&gt;
+&lt;li&gt;При помощи команды history можно вывести информацию о последних выполненных командах.&lt;/li&gt;
+&lt;li&gt;Модернизировать команду можно, используя формат, как
+!&amp;lt;номер команды&amp;gt;:s/&amp;lt;что меняем&amp;gt;/&amp;lt;на что меняем&amp;gt;. Пример: !2:s/a/lFt&lt;/li&gt;
+&lt;li&gt;Чтобы воспользоваться несколькими командами в одной строке, нужно использовать &amp;ldquo;;&amp;rdquo; Пример: cd; ls -l&lt;/li&gt;
+&lt;li&gt;Экранирование символов - замена в тексте управляющих символов на соответствующие текстовые подстановки. Если встречаются символы (&amp;quot;.&amp;quot;,&amp;quot;/&amp;quot;, &amp;ldquo;*&amp;rdquo;), то можно поставить перед ним знак экранирования /. Пример: //&lt;/li&gt;
+&lt;li&gt;Команда ls -l выводит следующую информацию: тип файла - право доступа - число ссылок - владелец, размер - дата последней ревизии - имя файла или каталога.&lt;/li&gt;
+&lt;li&gt;Относительный путь представляет собой путь по отношению к текущему рабочему каталогу пользователя или активных приложений. Используется командой cd. Пример: Относительный: cd ./name_folder
+pwd: /usr/name_folder
+Абсолютный: cd /usr/bin/
+pwd: /usr/bin&lt;/li&gt;
+&lt;li&gt;Команда man позволяет получить справочник по той или иной информации.&lt;/li&gt;
+&lt;li&gt;Клавиша Tab служит для автоматического дополнения вводимых команд.&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

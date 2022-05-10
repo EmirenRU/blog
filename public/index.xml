@@ -1,0 +1,1154 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Academic</title>
+    <link>https://example.com/</link>
+      <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <description>Academic</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Academic</title>
+      <link>https://example.com/</link>
+    </image>
+    
+    <item>
+      <title>Example Talk</title>
+      <link>https://example.com/talk/example-talk/</link>
+      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
+      <guid>https://example.com/talk/example-talk/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Wowchemy&amp;rsquo;s &lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Further event details, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page elements&lt;/a&gt; such as image galleries, can be added to the body of this page.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Markdown</title>
+      <link>https://example.com/post/markdown/</link>
+      <pubDate>Tue, 10 May 2022 11:21:17 +0300</pubDate>
+      <guid>https://example.com/post/markdown/</guid>
+      <description>&lt;h1 id=&#34;beginner-guide-to-markdown&#34;&gt;Beginner Guide to Markdown&lt;/h1&gt;
+&lt;p&gt;Let me introduce you to markdown first,&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;markdown logo&#34; srcset=&#34;
+               /post/markdown/img/1_hu29704fd9e22ae7e3acf7f9ee23777277_14947_99b600292e03f117fc01f3b929abc5a7.webp 400w,
+               /post/markdown/img/1_hu29704fd9e22ae7e3acf7f9ee23777277_14947_9a2d0359a5918b373fbedfb166ddceee.webp 760w,
+               /post/markdown/img/1_hu29704fd9e22ae7e3acf7f9ee23777277_14947_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/post/markdown/img/1_hu29704fd9e22ae7e3acf7f9ee23777277_14947_99b600292e03f117fc01f3b929abc5a7.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;467&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Markdown is made by John Gruber, you can use markdown to write blogs, texts, books and practically 100% of your writing work in a single format and you can easily distribute it in Word, PDFs, EPUBs, HTML, and many other formats.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Some pro’s of markdown:&lt;/strong&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;- Easy and simple formatting.
+
+- Can be converted to tons of different formats easily.
+
+ - Platform and app independent format. (you just need a simple text editor on any PC ever existed on this planet)
+
+ - Pleasant syntax and easy to learn.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;strong&gt;Learning basic Markdown syntax:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Paragraphs:&lt;/strong&gt; Everything you write are just wrapped in paragraphs. You can separate paragraphs by leaving a line between them.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-Markdown&#34; data-lang=&#34;Markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Hi this is simple paragraph  
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;and this is also the part of line.
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Yeah, this is another paragraph.
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Headings:&lt;/strong&gt; you can create headings with number of hashes # . The more the number of hashes the lesser the power of heading.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-Markdown&#34; data-lang=&#34;Markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;gh&#34;&gt;# Main Heading 
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;gh&#34;&gt;&lt;/span&gt;&lt;span class=&#34;gu&#34;&gt;## Sub Heading
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;gu&#34;&gt;### may be used as topic heading
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;gu&#34;&gt;#### sub-topic headings
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;gu&#34;&gt;##### another heading
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;gu&#34;&gt;###### smallest heading
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Links:&lt;/strong&gt; are really important in documents and markdown’s syntax for links is great too.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-Markdown&#34; data-lang=&#34;Markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;I read a lot and also write some cool blogs. You can read [&lt;span class=&#34;nt&#34;&gt;My blog&lt;/span&gt;](&lt;span class=&#34;na&#34;&gt;https://emirenru.github.io/post/choice&lt;/span&gt;) here.
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Images:&lt;/strong&gt; everyone loves to make their text visually appealing by adding high quality images.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-Markdown&#34; data-lang=&#34;Markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;![&lt;span class=&#34;nt&#34;&gt;Image&lt;/span&gt;](&lt;span class=&#34;na&#34;&gt;https://example.com/my-awesome-pic.png&lt;/span&gt;)
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;it’s just adding ! a link to make it an image.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Un-ordered List:&lt;/strong&gt; they are made by&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-Markdown&#34; data-lang=&#34;Markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;-&lt;/span&gt; first item  
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;some text about it.
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;-&lt;/span&gt; Second item  
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;some text also about it.
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;&lt;strong&gt;Ordered List:&lt;/strong&gt; Items are listed with some number or counting.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-Markdown&#34; data-lang=&#34;Markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;1.&lt;/span&gt; Hello this about me.
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;2.&lt;/span&gt; I&amp;#39;m a great blogger.
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;3.&lt;/span&gt; I write on medium.
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Blockquote:&lt;/strong&gt; want to show some quotes or highlight some text to get users attention, then blockquote is what you need.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-Markdown&#34; data-lang=&#34;Markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;&amp;gt; &lt;/span&gt;&lt;span class=&#34;ge&#34;&gt;Make it simple not simpler.  -- Albert Einstein
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;Code:&lt;/strong&gt; you can write code samples in your markdown by using pair of &lt;code&gt;(upperticks)&lt;/code&gt; you can write multi-line code with 3 pair of upperticks.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# ping on google server (bash script)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;ping -t www.google.com
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Bold text:&lt;/strong&gt; if you want to bold the text use &lt;code&gt;**Bold**&lt;/code&gt; or &lt;code&gt;__bold__&lt;/code&gt; whatever you prefer, I generally prefer to use stars for bold and underscores for italics.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Italic text:&lt;/strong&gt; for italic text use single underscore &lt;em&gt;italic&lt;/em&gt; or star &lt;em&gt;italic&lt;/em&gt; around the text.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-Markdown&#34; data-lang=&#34;Markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;*italic*
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;ge&#34;&gt;_italic_&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h1 id=&#34;some-places-where-markdown-are-used&#34;&gt;Some places where Markdown are used.&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Slack&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Github and Github wiki&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Project management products like Trello&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Blog-aware static site generators like Jekyll or Hugo&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;some-apps-for-doing-markdown&#34;&gt;Some apps for doing markdown&lt;/h1&gt;
+&lt;p&gt;By the way, you can use your Notepad for writing markdown for any other text editor (don’t use Word). If you want to make your workflow better there are some apps made for writing markdown.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://typora.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://typora.io/&lt;/a&gt; (cross platform simple markdown editor)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://writeapp.net/mac/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://writeapp.net/mac/&lt;/a&gt; (mac only app)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://codepen.io/itsjzt/full/mMRbVj/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://codepen.io/itsjzt/full/mMRbVj/&lt;/a&gt; (webpage for writing quick markdown)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Created by Saurabh Sharma&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Week May 2 to May 8</title>
+      <link>https://example.com/post/week-may-2-to-may-8/</link>
+      <pubDate>Tue, 10 May 2022 11:20:56 +0300</pubDate>
+      <guid>https://example.com/post/week-may-2-to-may-8/</guid>
+      <description>&lt;h1 id=&#34;hello-world&#34;&gt;Hello, World!&lt;/h1&gt;
+&lt;p&gt;I am starting writting first post about how i spend my last week: May 2-8. So lets start with labs.&lt;/p&gt;
+&lt;h2 id=&#34;labs&#34;&gt;Labs&lt;/h2&gt;
+&lt;p&gt;Labs were not as hard as were on April 25 - May 1.&lt;/p&gt;
+&lt;p&gt;Lab №5 was about File Structure Analysis in UNIX-like Systems and commands to work with files and directories.&lt;/p&gt;
+&lt;p&gt;lab #6 was about Finding files, I/O redirection, Looking at running proccesses.&lt;/p&gt;
+&lt;h2 id=&#34;technology-of-programming&#34;&gt;Technology of Programming&lt;/h2&gt;
+&lt;p&gt;Programming practical lessons were about C++ classes, how to work with them and understanding of constructions, deconstructions and differences between structure and class.&lt;/p&gt;
+&lt;h1 id=&#34;thanks-for-your-reading&#34;&gt;Thanks for your reading.&lt;/h1&gt;
+&lt;p&gt;It&amp;rsquo;s my first post so don&amp;rsquo;t think about it so highly. Okay? :)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>What is Git.</title>
+      <link>https://example.com/post/choice/</link>
+      <pubDate>Thu, 05 May 2022 22:44:53 +0300</pubDate>
+      <guid>https://example.com/post/choice/</guid>
+      <description>&lt;p&gt;Git — это система для управления версиями исходного кода программ. В статье мы познакомимся с её основными возможностями, покажем отличие от GitHub и объясним, зачем Git новичку. Ещё вы узнаете, с чего начать обучение и почему не стоит тратить время на альтернативные программы.&lt;/p&gt;
+&lt;h1 id=&#34;git--это-система-коммитов&#34;&gt;Git — это система коммитов&lt;/h1&gt;
+&lt;p&gt;Представьте ситуацию: геймер доходит до финала, проигрывает и возвращается к началу уровня — попадает в ближайшую контрольную точку игры, где разработчики разрешили сохраниться. Если мы уберём контрольные точки, после каждого проигрыша придётся начинать игру заново.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;В программировании за сохранение кода в контрольных точках отвечает система контроля версий — специальная технология, которую можно подключить к любому проекту. Система контроля версий страхует от ошибок и возвращает код в то состояние, когда всё работало.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Контрольные точки называются коммитами. Один коммит — это пакет изменений, хранящий информацию с добавленными, отредактированными или удалёнными файлами кода. В один коммит принято добавлять не более десяти изменений — так получается длинная история версий, которая позволяет в случае ошибки откатиться с минимальной потерей работоспособного кода.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Система контроля версий — это хранилище с файлами всех изменений проекта. Оно позволяет вернуть проект в любое предыдущее состояние, когда программа стабильно работала&#34; srcset=&#34;
+               /post/choice/images/1_hu3d344bab70c2efb59841d7137a55c0e5_6504_d62366b2233a59cefacaebc706160e88.webp 400w,
+               /post/choice/images/1_hu3d344bab70c2efb59841d7137a55c0e5_6504_df6b2cb1562eeaf0aedd35e449e9b556.webp 760w,
+               /post/choice/images/1_hu3d344bab70c2efb59841d7137a55c0e5_6504_1200x1200_fit_q75_h2_lanczos_2.webp 1200w&#34;
+               src=&#34;https://example.com/post/choice/images/1_hu3d344bab70c2efb59841d7137a55c0e5_6504_d62366b2233a59cefacaebc706160e88.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h1 id=&#34;git--это-комплекс-связанных-веток&#34;&gt;Git — это комплекс связанных веток&lt;/h1&gt;
+&lt;p&gt;Коммиты располагаются на master-ветке — основной версии проекта, которая после завершения работы превратится в продукт.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Система контроля версий позволяет создавать ответвления от master-ветки и экспериментировать с проектом, не мешая другим участника команды.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Возьмём предыдущую схему, где мы обнаружили ошибку и откатились на один коммит назад. Чтобы поправить код, создадим несколько дополнительных веток и в каждой протестируем разные варианты решения проблемы. Когда решение найдено, ветку с правильным кодом переносим в master-ветку и сохраняем коммит. Лишние ветки оставляем или удаляем, поскольку они не влияют на проект и скрыты от других разработчиков — это ваш личный черновик.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Система контроля версий помогает разработчикам параллельно работать над проектом, не мешать друг другу и добавлять в master-ветку только качественный код&#34; srcset=&#34;
+               /post/choice/images/2_hua10696087e5d022e714be5434b68cc9b_8208_820565f6ce4bd6c97d0e57e3d079b12c.webp 400w,
+               /post/choice/images/2_hua10696087e5d022e714be5434b68cc9b_8208_9469b465640bd065635552d2290cc50b.webp 760w,
+               /post/choice/images/2_hua10696087e5d022e714be5434b68cc9b_8208_1200x1200_fit_q75_h2_lanczos_2.webp 1200w&#34;
+               src=&#34;https://example.com/post/choice/images/2_hua10696087e5d022e714be5434b68cc9b_8208_820565f6ce4bd6c97d0e57e3d079b12c.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h1 id=&#34;git--это-инструмент-совместного-создания-кода&#34;&gt;Git — это инструмент совместного создания кода&lt;/h1&gt;
+&lt;p&gt;Часто бывает так: разработчики отделяются от master-ветки и работают над частью проекта самостоятельно — например, чтобы протестировать дополнительные функции. Но не могут продолжить, пока кто-то из команды не допишет код.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Система контроля версий позволяет не ждать обновления master-ветки и разрешает всем участникам команды свободно перемещаться между ветками других разработчиков для копирования нужных фрагментов кода.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Бывают и обратные ситуации, когда несколько разработчиков одновременно дописывают код, заливают его в master-ветку и сталкиваются с конфликтом — один файл получает несколько несогласованных изменений. В этом случае Git попробует автоматически исправить ошибки. Если не получится, разработчики это увидят и смогут поправить код вручную.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Система контроля версий открывает доступ к веткам других разработчиков&#34; srcset=&#34;
+               /post/choice/images/3_hu07a7d258261d72db22a14f5e291b2f65_6954_95c20176276cb83223f7f98d100cefdc.webp 400w,
+               /post/choice/images/3_hu07a7d258261d72db22a14f5e291b2f65_6954_6a53570b3ece7b51f7d6094cd0fb2b0a.webp 760w,
+               /post/choice/images/3_hu07a7d258261d72db22a14f5e291b2f65_6954_1200x1200_fit_q75_h2_lanczos_2.webp 1200w&#34;
+               src=&#34;https://example.com/post/choice/images/3_hu07a7d258261d72db22a14f5e291b2f65_6954_95c20176276cb83223f7f98d100cefdc.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Lab</title>
+      <link>https://example.com/post/last_week/</link>
+      <pubDate>Thu, 05 May 2022 22:44:37 +0300</pubDate>
+      <guid>https://example.com/post/last_week/</guid>
+      <description>&lt;h1 id=&#34;цель-работы&#34;&gt;Цель Работы&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Приобретение практических навыков взаимодействия пользователя с системой посредством командной строки&lt;/strong&gt;&lt;/p&gt;
+&lt;h1 id=&#34;ход-работы&#34;&gt;Ход Работы&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Определили полное имя домашнего каталога.(рис. [-@fig:001])&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Определили с помощью команды pwd&#34; srcset=&#34;
+               /post/last_week/Images/1_hue4c4a161bf00fd7e11f3675fa5f63eb9_240308_241780ab0ce8ce7a166ff749e26d2289.webp 400w,
+               /post/last_week/Images/1_hue4c4a161bf00fd7e11f3675fa5f63eb9_240308_6186fe9b4653f5b91fd0db57dd2f60c2.webp 760w,
+               /post/last_week/Images/1_hue4c4a161bf00fd7e11f3675fa5f63eb9_240308_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/post/last_week/Images/1_hue4c4a161bf00fd7e11f3675fa5f63eb9_240308_241780ab0ce8ce7a166ff749e26d2289.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;417&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{ #fig:001 width=70% }&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;ul&gt;
+&lt;li&gt;Перешли в каталог /tmp .(рис. [-@fig:002])&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Переход в каталог /tmp&#34; srcset=&#34;
+               /post/last_week/Images/2.1_hu73a29dabca78da57929d71920fa10d4b_239630_c54677e76668a4e8db07942dad6fd7f8.webp 400w,
+               /post/last_week/Images/2.1_hu73a29dabca78da57929d71920fa10d4b_239630_26eef863a1991ea032f67279684adfd8.webp 760w,
+               /post/last_week/Images/2.1_hu73a29dabca78da57929d71920fa10d4b_239630_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/post/last_week/Images/2.1_hu73a29dabca78da57929d71920fa10d4b_239630_c54677e76668a4e8db07942dad6fd7f8.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;419&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{ #fig:002 width=70% }&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Вывели  содержимое каталога /tmp с опцией -a.(рис. [-@fig:003])&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Вывод содержимого с помощью ls -a&#34; srcset=&#34;
+               /post/last_week/Images/2.2.1_huf86b49d240fcee802fb21309b1739fac_262639_ee17cf6b3efd78d28c8a1d60f1abf9a7.webp 400w,
+               /post/last_week/Images/2.2.1_huf86b49d240fcee802fb21309b1739fac_262639_c68bb855186b4e4b93613c564dddad3e.webp 760w,
+               /post/last_week/Images/2.2.1_huf86b49d240fcee802fb21309b1739fac_262639_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/post/last_week/Images/2.2.1_huf86b49d240fcee802fb21309b1739fac_262639_ee17cf6b3efd78d28c8a1d60f1abf9a7.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;419&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{ #fig:003 width=70% }&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Вывели содержимое с опцией -l.(рис. [-@fig:004])&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Вывод содержимого с помощью ls -l&#34; srcset=&#34;
+               /post/last_week/Images/2.2.2_huc48f3fd92d23354d576a7bee7e021276_286050_4515a3e9eb4684221e6f4a20a2de047d.webp 400w,
+               /post/last_week/Images/2.2.2_huc48f3fd92d23354d576a7bee7e021276_286050_43d49743c24875fbd8ecd842574af854.webp 760w,
+               /post/last_week/Images/2.2.2_huc48f3fd92d23354d576a7bee7e021276_286050_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/post/last_week/Images/2.2.2_huc48f3fd92d23354d576a7bee7e021276_286050_4515a3e9eb4684221e6f4a20a2de047d.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;418&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{ #fig:004 width=70% }&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Попробовали найти каталог cron в каталоге /var/spool .(рис. [-@fig:005])&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Нахождение cron&#34; srcset=&#34;
+               /post/last_week/Images/2.3_hu4af3356f097f1100e57571e484cc066f_276725_bafacf37ba74bce69a1c688fafd507c8.webp 400w,
+               /post/last_week/Images/2.3_hu4af3356f097f1100e57571e484cc066f_276725_2914e434e9c375cc8b90b3bda1b323db.webp 760w,
+               /post/last_week/Images/2.3_hu4af3356f097f1100e57571e484cc066f_276725_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/post/last_week/Images/2.3_hu4af3356f097f1100e57571e484cc066f_276725_bafacf37ba74bce69a1c688fafd507c8.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;419&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{ #fig:005 width=70% }&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Перешли в домашний каталог и вывели его содержимое.(рис. [-@fig:006])&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Вывод содержимового дом.катаога&#34; srcset=&#34;
+               /post/last_week/Images/2.4_hu20476f2c2d272bccd27187cbe02da7ee_279057_b0a606767b15ffadf6e4406e9571122a.webp 400w,
+               /post/last_week/Images/2.4_hu20476f2c2d272bccd27187cbe02da7ee_279057_3c29c3d79f5eade317c3f562064bda15.webp 760w,
+               /post/last_week/Images/2.4_hu20476f2c2d272bccd27187cbe02da7ee_279057_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/post/last_week/Images/2.4_hu20476f2c2d272bccd27187cbe02da7ee_279057_b0a606767b15ffadf6e4406e9571122a.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;419&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{ #fig:006 width=70% }&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;ul&gt;
+&lt;li&gt;Создал каталоги newdir и создал в нем каталог morefun и проверил на их наличие.(рис. [-@fig:007])&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Cоздание newdir &amp;#43; newdir/morefun&#34; srcset=&#34;
+               /post/last_week/Images/3.1_hu4d3afbabc75d4374393007854403772b_249028_ff6f433d3acbe52ea76f37ba5228b694.webp 400w,
+               /post/last_week/Images/3.1_hu4d3afbabc75d4374393007854403772b_249028_bc869be2e58accb808e15b56518d02f3.webp 760w,
+               /post/last_week/Images/3.1_hu4d3afbabc75d4374393007854403772b_249028_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/post/last_week/Images/3.1_hu4d3afbabc75d4374393007854403772b_249028_ff6f433d3acbe52ea76f37ba5228b694.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;418&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{ #fig:007 width=70% }&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Создал в домашнем каталоге одной командой каталоги letters, memos, misk и после удалил их.(рис. [-@fig:008])&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Создание и удаление letters, memos, misk&#34; srcset=&#34;
+               /post/last_week/Images/3.3_hue8d6584a83b2092fa8dc01980a698097_246007_c4018755929ee5865c068348459da333.webp 400w,
+               /post/last_week/Images/3.3_hue8d6584a83b2092fa8dc01980a698097_246007_b7ebc82f0a2f1039e01ba72c782af5dc.webp 760w,
+               /post/last_week/Images/3.3_hue8d6584a83b2092fa8dc01980a698097_246007_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/post/last_week/Images/3.3_hue8d6584a83b2092fa8dc01980a698097_246007_c4018755929ee5865c068348459da333.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;420&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{ #fig:008 width=70% }&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Попробовали удалить каталог newdir с помощью команды rm, но не получилось. Используя опцию -r, получилось удалить.(рис. [-@fig:009])&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Удаление newdir &amp;#43; newdir/morefun&#34; srcset=&#34;
+               /post/last_week/Images/3.5_hu6aa15eea4e2ed9cb1b5fb498511ea43b_247813_d95b53fdf411f4b41e4289798eb8cb02.webp 400w,
+               /post/last_week/Images/3.5_hu6aa15eea4e2ed9cb1b5fb498511ea43b_247813_b60417a3a159247a8097cb4a8bce326f.webp 760w,
+               /post/last_week/Images/3.5_hu6aa15eea4e2ed9cb1b5fb498511ea43b_247813_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/post/last_week/Images/3.5_hu6aa15eea4e2ed9cb1b5fb498511ea43b_247813_d95b53fdf411f4b41e4289798eb8cb02.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;420&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{ #fig:009 width=70% }&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Посмотрели с помощью команды man ls и узнали о опции -R.(рис. [-@fig:010], [-@fig:011])&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Просмотр man&#34; srcset=&#34;
+               /post/last_week/Images/4.1_hu9ea4dc871864e8e0cdfcc0430e412dba_260013_f985e1c0668966366bc0e9f3074a1477.webp 400w,
+               /post/last_week/Images/4.1_hu9ea4dc871864e8e0cdfcc0430e412dba_260013_7c60aa5128020cbad91e256b6238f026.webp 760w,
+               /post/last_week/Images/4.1_hu9ea4dc871864e8e0cdfcc0430e412dba_260013_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/post/last_week/Images/4.1_hu9ea4dc871864e8e0cdfcc0430e412dba_260013_f985e1c0668966366bc0e9f3074a1477.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;420&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{ #fig:010 width=70% }&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Вопроизвели команду&#34; srcset=&#34;
+               /post/last_week/Images/4.2_hua944323e991389b5580dc1f0230639ea_239035_d7c6d7d371726f04074cbca874a4fe24.webp 400w,
+               /post/last_week/Images/4.2_hua944323e991389b5580dc1f0230639ea_239035_7efeed73cd6faf053a1be89ba690e6a9.webp 760w,
+               /post/last_week/Images/4.2_hua944323e991389b5580dc1f0230639ea_239035_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/post/last_week/Images/4.2_hua944323e991389b5580dc1f0230639ea_239035_d7c6d7d371726f04074cbca874a4fe24.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;419&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{ #fig:011 width=70% }&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Посмотрели с помощью man ls и узнали о опции -t.(рис. [-@fig:012], [-@fig:013])&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Посмотрели на man&#34; srcset=&#34;
+               /post/last_week/Images/5.1_hu4d645ff2fba14df69d533387c3116d67_278717_1215624b7cbc18b59beab4a048798e5e.webp 400w,
+               /post/last_week/Images/5.1_hu4d645ff2fba14df69d533387c3116d67_278717_01a203222c5dc4bb6b6760712b615df3.webp 760w,
+               /post/last_week/Images/5.1_hu4d645ff2fba14df69d533387c3116d67_278717_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/post/last_week/Images/5.1_hu4d645ff2fba14df69d533387c3116d67_278717_1215624b7cbc18b59beab4a048798e5e.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;419&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{ #fig:012 width=70% }&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Вопроизвели команду&#34; srcset=&#34;
+               /post/last_week/Images/5.2_hu4b1de79e5383bdb2a042635581f4a268_278666_90a280b93e2d0935f4233fa6611b7fff.webp 400w,
+               /post/last_week/Images/5.2_hu4b1de79e5383bdb2a042635581f4a268_278666_d626a8879bdd28012b5349929f6198da.webp 760w,
+               /post/last_week/Images/5.2_hu4b1de79e5383bdb2a042635581f4a268_278666_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/post/last_week/Images/5.2_hu4b1de79e5383bdb2a042635581f4a268_278666_90a280b93e2d0935f4233fa6611b7fff.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;417&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{ #fig:013 width=70% }&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Использовали man для просмотра описания команд: cd, pwd, mkdir, rmdir, rm.(рис. [-@fig:014], [-@fig:015], [-@fig:016], [-@fig:017], [-@fig:018])&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Использовали man cd&#34; srcset=&#34;
+               /post/last_week/Images/6.1_hu9d44c8c584c54eb646a7220596e6b72a_321992_36a221e2bc8080b9649ba3499e4df5a6.webp 400w,
+               /post/last_week/Images/6.1_hu9d44c8c584c54eb646a7220596e6b72a_321992_a6c90adc6d3f972b4ad58f2148a95026.webp 760w,
+               /post/last_week/Images/6.1_hu9d44c8c584c54eb646a7220596e6b72a_321992_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/post/last_week/Images/6.1_hu9d44c8c584c54eb646a7220596e6b72a_321992_36a221e2bc8080b9649ba3499e4df5a6.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;422&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{ #fig:014 width=70% }&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Использовали man pwd&#34; srcset=&#34;
+               /post/last_week/Images/6.2_hu5fbc17ff6f12de22267c7865a81ce04a_256368_635999477bd7607d68f423795c8b9117.webp 400w,
+               /post/last_week/Images/6.2_hu5fbc17ff6f12de22267c7865a81ce04a_256368_ed48ae512c44e98bde2d1ebad48cfbc9.webp 760w,
+               /post/last_week/Images/6.2_hu5fbc17ff6f12de22267c7865a81ce04a_256368_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/post/last_week/Images/6.2_hu5fbc17ff6f12de22267c7865a81ce04a_256368_635999477bd7607d68f423795c8b9117.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;418&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{ #fig:015 width=70% }&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Использовали man mkdir&#34; srcset=&#34;
+               /post/last_week/Images/6.3_huba280ab38fc25eead6678763b7e7cf27_260929_c5e2b6a25289f70961889f6c80f3285d.webp 400w,
+               /post/last_week/Images/6.3_huba280ab38fc25eead6678763b7e7cf27_260929_56cca2f3e2863e4f6f621c07f33401c9.webp 760w,
+               /post/last_week/Images/6.3_huba280ab38fc25eead6678763b7e7cf27_260929_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/post/last_week/Images/6.3_huba280ab38fc25eead6678763b7e7cf27_260929_c5e2b6a25289f70961889f6c80f3285d.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;419&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{ #fig:016 width=70% }&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Использовали man rmdir&#34; srcset=&#34;
+               /post/last_week/Images/6.4_hu8b153c74d38bb6669173ed56ea671828_258146_b0d4e5aa478f73f4d764ecf95e1dfbe2.webp 400w,
+               /post/last_week/Images/6.4_hu8b153c74d38bb6669173ed56ea671828_258146_c7aeac02521c33af7cdcd8ebca4f6df2.webp 760w,
+               /post/last_week/Images/6.4_hu8b153c74d38bb6669173ed56ea671828_258146_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/post/last_week/Images/6.4_hu8b153c74d38bb6669173ed56ea671828_258146_b0d4e5aa478f73f4d764ecf95e1dfbe2.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;420&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{ #fig:017 width=70% }&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Использовали man rm&#34; srcset=&#34;
+               /post/last_week/Images/6.5_hu6e5474fc2f11d1fb4f7d49f0304dbe06_271750_dadb71586aaaff38d5b6a07510b3c854.webp 400w,
+               /post/last_week/Images/6.5_hu6e5474fc2f11d1fb4f7d49f0304dbe06_271750_3214b214169ae55582aa49f561c86013.webp 760w,
+               /post/last_week/Images/6.5_hu6e5474fc2f11d1fb4f7d49f0304dbe06_271750_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/post/last_week/Images/6.5_hu6e5474fc2f11d1fb4f7d49f0304dbe06_271750_dadb71586aaaff38d5b6a07510b3c854.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;419&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{ #fig:0018 idth=70% }&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Используя информацию с history мы модифицировали и исполнили несколько команд из буфера.(рис. [-@fig:019])&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Модифицировали и исполнили&#34; srcset=&#34;
+               /post/last_week/Images/7.2_hu8fa1c3ef02d501c31c2d1d9d1ff91c58_271919_1f6eae107fd0dc0f1e688f03bf1e5d62.webp 400w,
+               /post/last_week/Images/7.2_hu8fa1c3ef02d501c31c2d1d9d1ff91c58_271919_49caf9cdc9d76383b44ac3c541bbb141.webp 760w,
+               /post/last_week/Images/7.2_hu8fa1c3ef02d501c31c2d1d9d1ff91c58_271919_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/post/last_week/Images/7.2_hu8fa1c3ef02d501c31c2d1d9d1ff91c58_271919_1f6eae107fd0dc0f1e688f03bf1e5d62.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;419&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{ #fig:019 width=70% }&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1 id=&#34;вывод&#34;&gt;Вывод&lt;/h1&gt;
+&lt;p&gt;Во время лабораторной работы, мы приобрели навыки взаимодействия пользователя с системой посредством командной строки и познакомились с команды и его опциями.&lt;/p&gt;
+&lt;h1 id=&#34;контрольные-вопросы&#34;&gt;Контрольные вопросы.&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;Командная строка позволяет пользователю взаимодействовать с системой, используя команды.&lt;/li&gt;
+&lt;li&gt;Команда pdf позволяет определить абсолютный путь. Пример: /home/easamigullin&lt;/li&gt;
+&lt;li&gt;При помощи команды ls с опцией -F позволяет узнать тип файлов и их имена в текущем каталоге. Пример: Downloads/&lt;/li&gt;
+&lt;li&gt;При помощи команды ls с опцией -a позволяет увидеть добавочно скрытые файлы. Пример: .ssh&lt;/li&gt;
+&lt;li&gt;При помощи rm можно удалять файлы и каталоги, только с каталогами надо добавить опцию -r. Пример: rm -r newdir&lt;/li&gt;
+&lt;li&gt;При помощи команды history можно вывести информацию о последних выполненных командах.&lt;/li&gt;
+&lt;li&gt;Модернизировать команду можно, используя формат, как
+!&amp;lt;номер команды&amp;gt;:s/&amp;lt;что меняем&amp;gt;/&amp;lt;на что меняем&amp;gt;. Пример: !2:s/a/lFt&lt;/li&gt;
+&lt;li&gt;Чтобы воспользоваться несколькими командами в одной строке, нужно использовать &amp;ldquo;;&amp;rdquo; Пример: cd; ls -l&lt;/li&gt;
+&lt;li&gt;Экранирование символов - замена в тексте управляющих символов на соответствующие текстовые подстановки. Если встречаются символы (&amp;quot;.&amp;quot;,&amp;quot;/&amp;quot;, &amp;ldquo;*&amp;rdquo;), то можно поставить перед ним знак экранирования /. Пример: //&lt;/li&gt;
+&lt;li&gt;Команда ls -l выводит следующую информацию: тип файла - право доступа - число ссылок - владелец, размер - дата последней ревизии - имя файла или каталога.&lt;/li&gt;
+&lt;li&gt;Относительный путь представляет собой путь по отношению к текущему рабочему каталогу пользователя или активных приложений. Используется командой cd. Пример: Относительный: cd ./name_folder
+pwd: /usr/name_folder
+Абсолютный: cd /usr/bin/
+pwd: /usr/bin&lt;/li&gt;
+&lt;li&gt;Команда man позволяет получить справочник по той или иной информации.&lt;/li&gt;
+&lt;li&gt;Клавиша Tab служит для автоматического дополнения вводимых команд.&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Welcome to Wowchemy, the website builder for Hugo</title>
+      <link>https://example.com/post/getting-started/</link>
+      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/getting-started/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li&gt;
+&lt;li&gt;The template can be modified and customised to suit your needs. It&amp;rsquo;s a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a &lt;strong&gt;no-code solution (write in Markdown and customize with YAML parameters)&lt;/strong&gt; and having &lt;strong&gt;flexibility to later add even deeper personalization with HTML and CSS&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more&lt;/li&gt;
+&lt;/ol&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-the-template-is-mobile-first-with-a-responsive-design-to-ensure-that-your-site-looks-stunning-on-every-device&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png&#34; alt=&#34;The template is mobile first with a responsive design to ensure that your site looks stunning on every device.&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      The template is mobile first with a responsive design to ensure that your site looks stunning on every device.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;h2 id=&#34;get-started&#34;&gt;Get Started&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;👉 &lt;a href=&#34;https://wowchemy.com/templates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Create a new site&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;📚 &lt;a href=&#34;https://wowchemy.com/docs/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Personalize your site&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;💬 &lt;a href=&#34;https://discord.gg/z8wNYzb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chat with the &lt;strong&gt;Wowchemy community&lt;/strong&gt;&lt;/a&gt; or &lt;a href=&#34;https://discourse.gohugo.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Hugo community&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;🐦 Twitter: &lt;a href=&#34;https://twitter.com/wowchemy&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@wowchemy&lt;/a&gt; &lt;a href=&#34;https://twitter.com/GeorgeCushen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@GeorgeCushen&lt;/a&gt; &lt;a href=&#34;https://twitter.com/search?q=%23MadeWithWowchemy&amp;amp;src=typed_query&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;#MadeWithWowchemy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;💡 &lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/issues&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Request a &lt;strong&gt;feature&lt;/strong&gt; or report a &lt;strong&gt;bug&lt;/strong&gt; for &lt;em&gt;Wowchemy&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;⬆️ &lt;strong&gt;Updating Wowchemy?&lt;/strong&gt; View the &lt;a href=&#34;https://wowchemy.com/docs/hugo-tutorials/update/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Update Tutorial&lt;/a&gt; and &lt;a href=&#34;https://wowchemy.com/updates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Release Notes&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;crowd-funded-open-source-software&#34;&gt;Crowd-funded open-source software&lt;/h2&gt;
+&lt;p&gt;To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.&lt;/p&gt;
+&lt;h3 id=&#34;-click-here-to-become-a-sponsor-and-help-support-wowchemys-future-httpswowchemycomplans&#34;&gt;&lt;a href=&#34;https://wowchemy.com/plans/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;❤️ Click here to become a sponsor and help support Wowchemy&amp;rsquo;s future ❤️&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;As a token of appreciation for sponsoring, you can &lt;strong&gt;unlock &lt;a href=&#34;https://wowchemy.com/plans/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;these&lt;/a&gt; awesome rewards and extra features 🦄✨&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;ecosystem&#34;&gt;Ecosystem&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/wowchemy/hugo-academic-cli&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Academic CLI&lt;/a&gt;:&lt;/strong&gt; Automatically import publications from BibTeX&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;inspiration&#34;&gt;Inspiration&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Check out the latest &lt;strong&gt;demo&lt;/strong&gt;&lt;/a&gt; of what you&amp;rsquo;ll get in less than 10 minutes, or &lt;a href=&#34;https://wowchemy.com/user-stories/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;view the &lt;strong&gt;showcase&lt;/strong&gt;&lt;/a&gt; of personal, project, and business sites.&lt;/p&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Page builder&lt;/strong&gt; - Create &lt;em&gt;anything&lt;/em&gt; with &lt;a href=&#34;https://wowchemy.com/docs/page-builder/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;widgets&lt;/strong&gt;&lt;/a&gt; and &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;elements&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Edit any type of content&lt;/strong&gt; - Blog posts, publications, talks, slides, projects, and more!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Create content&lt;/strong&gt; in &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Markdown&lt;/strong&gt;&lt;/a&gt;, &lt;a href=&#34;https://wowchemy.com/docs/import/jupyter/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Jupyter&lt;/strong&gt;&lt;/a&gt;, or &lt;a href=&#34;https://wowchemy.com/docs/install-locally/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;RStudio&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Plugin System&lt;/strong&gt; - Fully customizable &lt;a href=&#34;https://wowchemy.com/docs/customization/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;color&lt;/strong&gt; and &lt;strong&gt;font themes&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Display Code and Math&lt;/strong&gt; - Code highlighting and &lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Mathematics&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LaTeX math&lt;/a&gt; supported&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Integrations&lt;/strong&gt; - &lt;a href=&#34;https://analytics.google.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Analytics&lt;/a&gt;, &lt;a href=&#34;https://disqus.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Disqus commenting&lt;/a&gt;, Maps, Contact Forms, and more!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Beautiful Site&lt;/strong&gt; - Simple and refreshing one page design&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Industry-Leading SEO&lt;/strong&gt; - Help get your website found on search engines and social media&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Media Galleries&lt;/strong&gt; - Display your images and videos with captions in a customizable gallery&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Mobile Friendly&lt;/strong&gt; - Look amazing on every screen with a mobile friendly version of your site&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Multi-language&lt;/strong&gt; - 34+ language packs including English, 中文, and Português&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Multi-user&lt;/strong&gt; - Each author gets their own profile page&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Privacy Pack&lt;/strong&gt; - Assists with GDPR&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Stand Out&lt;/strong&gt; - Bring your site to life with animation, parallax backgrounds, and scroll effects&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;One-Click Deployment&lt;/strong&gt; - No servers. No databases. Only files.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+&lt;p&gt;Wowchemy and its templates come with &lt;strong&gt;automatic day (light) and night (dark) mode&lt;/strong&gt; built-in. Alternatively, visitors can choose their preferred mode - click the moon icon in the top right of the &lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Demo&lt;/a&gt; to see it in action! Day/night mode can also be disabled by the site admin in &lt;code&gt;params.toml&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/customization&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Choose a stunning &lt;strong&gt;theme&lt;/strong&gt; and &lt;strong&gt;font&lt;/strong&gt;&lt;/a&gt; for your site. Themes are fully customizable.&lt;/p&gt;
+&lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
+&lt;p&gt;Copyright 2016-present &lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Released under the &lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/blob/master/LICENSE.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Slides</title>
+      <link>https://example.com/slides/example/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/slides/example/</guid>
+      <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://owchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Efficiently write slides in Markdown&lt;/li&gt;
+&lt;li&gt;3-in-1: Create, Present, and Publish your slides&lt;/li&gt;
+&lt;li&gt;Supports speaker notes&lt;/li&gt;
+&lt;li&gt;Mobile friendly slides&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;controls&#34;&gt;Controls&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Next: &lt;code&gt;Right Arrow&lt;/code&gt; or &lt;code&gt;Space&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Previous: &lt;code&gt;Left Arrow&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Start: &lt;code&gt;Home&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Finish: &lt;code&gt;End&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Overview: &lt;code&gt;Esc&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Speaker notes: &lt;code&gt;S&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Fullscreen: &lt;code&gt;F&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Zoom: &lt;code&gt;Alt + Click&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/hakimel/reveal.js#pdf-export&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF Export&lt;/a&gt;: &lt;code&gt;E&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;code-highlighting&#34;&gt;Code Highlighting&lt;/h2&gt;
+&lt;p&gt;Inline code: &lt;code&gt;variable&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Code block:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;porridge&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;blueberry&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;if&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;porridge&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;==&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;blueberry&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;Eating...&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
+&lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
+&lt;p&gt;In-line math: $x + y = z$&lt;/p&gt;
+&lt;p&gt;Block math:&lt;/p&gt;
+&lt;p&gt;$$
+f\left( x \right) = ;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
+$$&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;fragments&#34;&gt;Fragments&lt;/h2&gt;
+&lt;p&gt;Make content appear incrementally&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;{{% fragment %}} One {{% /fragment %}}
+{{% fragment %}} **Two** {{% /fragment %}}
+{{% fragment %}} Three {{% /fragment %}}
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+  One
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+  &lt;strong&gt;Two&lt;/strong&gt;
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+  Three
+&lt;/span&gt;
+&lt;hr&gt;
+&lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;class&lt;/code&gt;: use a custom style (requires definition in custom CSS)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;weight&lt;/code&gt;: sets the order in which a fragment appears&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;speaker-notes&#34;&gt;Speaker Notes&lt;/h2&gt;
+&lt;p&gt;Add speaker notes to your presentation&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% speaker_note %}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;-&lt;/span&gt; Only the speaker can read these notes
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;-&lt;/span&gt; Press &lt;span class=&#34;sb&#34;&gt;`S`&lt;/span&gt; key to view
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  {{% /speaker_note %}}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Press the &lt;code&gt;S&lt;/code&gt; key to view the speaker notes!&lt;/p&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
+&lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;black: Black background, white text, blue links (default)&lt;/li&gt;
+&lt;li&gt;white: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;league: Gray background, white text, blue links&lt;/li&gt;
+&lt;li&gt;beige: Beige background, dark text, brown links&lt;/li&gt;
+&lt;li&gt;sky: Blue background, thin dark text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;night: Black background, thick white text, orange links&lt;/li&gt;
+&lt;li&gt;serif: Cappuccino background, gray text, brown links&lt;/li&gt;
+&lt;li&gt;simple: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;solarized: Cream-colored background, dark green text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;/media/boards.jpg&#34;
+  &gt;
+
+&lt;h2 id=&#34;custom-slide&#34;&gt;Custom Slide&lt;/h2&gt;
+&lt;p&gt;Customize the slide style and background&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;slide&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;background-image&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;/media/boards.jpg&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;slide&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;background-color&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;#0000FF&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;slide&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;class&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;my-style&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
+&lt;h2 id=&#34;custom-css-example&#34;&gt;Custom CSS Example&lt;/h2&gt;
+&lt;p&gt;Let&amp;rsquo;s make headers navy colored.&lt;/p&gt;
+&lt;p&gt;Create &lt;code&gt;assets/css/reveal_custom.css&lt;/code&gt; with:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-css&#34; data-lang=&#34;css&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nc&#34;&gt;reveal&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;section&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;h1&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nc&#34;&gt;reveal&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;section&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;h2&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nc&#34;&gt;reveal&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;section&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;h3&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;k&#34;&gt;color&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;kc&#34;&gt;navy&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
+&lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/discussions&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Example Project</title>
+      <link>https://example.com/project/example/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/example/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An example conference paper</title>
+      <link>https://example.com/publication/example/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/example/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/admin/config.yml</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

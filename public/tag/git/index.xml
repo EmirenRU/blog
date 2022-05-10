@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Git | Academic</title>
+    <link>https://example.com/tag/git/</link>
+      <atom:link href="https://example.com/tag/git/index.xml" rel="self" type="application/rss+xml" />
+    <description>Git</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 05 May 2022 22:44:53 +0300</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Git</title>
+      <link>https://example.com/tag/git/</link>
+    </image>
+    
+    <item>
+      <title>What is Git.</title>
+      <link>https://example.com/post/choice/</link>
+      <pubDate>Thu, 05 May 2022 22:44:53 +0300</pubDate>
+      <guid>https://example.com/post/choice/</guid>
+      <description>&lt;p&gt;Git — это система для управления версиями исходного кода программ. В статье мы познакомимся с её основными возможностями, покажем отличие от GitHub и объясним, зачем Git новичку. Ещё вы узнаете, с чего начать обучение и почему не стоит тратить время на альтернативные программы.&lt;/p&gt;
+&lt;h1 id=&#34;git--это-система-коммитов&#34;&gt;Git — это система коммитов&lt;/h1&gt;
+&lt;p&gt;Представьте ситуацию: геймер доходит до финала, проигрывает и возвращается к началу уровня — попадает в ближайшую контрольную точку игры, где разработчики разрешили сохраниться. Если мы уберём контрольные точки, после каждого проигрыша придётся начинать игру заново.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;В программировании за сохранение кода в контрольных точках отвечает система контроля версий — специальная технология, которую можно подключить к любому проекту. Система контроля версий страхует от ошибок и возвращает код в то состояние, когда всё работало.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Контрольные точки называются коммитами. Один коммит — это пакет изменений, хранящий информацию с добавленными, отредактированными или удалёнными файлами кода. В один коммит принято добавлять не более десяти изменений — так получается длинная история версий, которая позволяет в случае ошибки откатиться с минимальной потерей работоспособного кода.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Система контроля версий — это хранилище с файлами всех изменений проекта. Оно позволяет вернуть проект в любое предыдущее состояние, когда программа стабильно работала&#34; srcset=&#34;
+               /post/choice/images/1_hu3d344bab70c2efb59841d7137a55c0e5_6504_d62366b2233a59cefacaebc706160e88.webp 400w,
+               /post/choice/images/1_hu3d344bab70c2efb59841d7137a55c0e5_6504_df6b2cb1562eeaf0aedd35e449e9b556.webp 760w,
+               /post/choice/images/1_hu3d344bab70c2efb59841d7137a55c0e5_6504_1200x1200_fit_q75_h2_lanczos_2.webp 1200w&#34;
+               src=&#34;https://example.com/post/choice/images/1_hu3d344bab70c2efb59841d7137a55c0e5_6504_d62366b2233a59cefacaebc706160e88.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h1 id=&#34;git--это-комплекс-связанных-веток&#34;&gt;Git — это комплекс связанных веток&lt;/h1&gt;
+&lt;p&gt;Коммиты располагаются на master-ветке — основной версии проекта, которая после завершения работы превратится в продукт.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Система контроля версий позволяет создавать ответвления от master-ветки и экспериментировать с проектом, не мешая другим участника команды.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Возьмём предыдущую схему, где мы обнаружили ошибку и откатились на один коммит назад. Чтобы поправить код, создадим несколько дополнительных веток и в каждой протестируем разные варианты решения проблемы. Когда решение найдено, ветку с правильным кодом переносим в master-ветку и сохраняем коммит. Лишние ветки оставляем или удаляем, поскольку они не влияют на проект и скрыты от других разработчиков — это ваш личный черновик.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Система контроля версий помогает разработчикам параллельно работать над проектом, не мешать друг другу и добавлять в master-ветку только качественный код&#34; srcset=&#34;
+               /post/choice/images/2_hua10696087e5d022e714be5434b68cc9b_8208_820565f6ce4bd6c97d0e57e3d079b12c.webp 400w,
+               /post/choice/images/2_hua10696087e5d022e714be5434b68cc9b_8208_9469b465640bd065635552d2290cc50b.webp 760w,
+               /post/choice/images/2_hua10696087e5d022e714be5434b68cc9b_8208_1200x1200_fit_q75_h2_lanczos_2.webp 1200w&#34;
+               src=&#34;https://example.com/post/choice/images/2_hua10696087e5d022e714be5434b68cc9b_8208_820565f6ce4bd6c97d0e57e3d079b12c.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h1 id=&#34;git--это-инструмент-совместного-создания-кода&#34;&gt;Git — это инструмент совместного создания кода&lt;/h1&gt;
+&lt;p&gt;Часто бывает так: разработчики отделяются от master-ветки и работают над частью проекта самостоятельно — например, чтобы протестировать дополнительные функции. Но не могут продолжить, пока кто-то из команды не допишет код.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Система контроля версий позволяет не ждать обновления master-ветки и разрешает всем участникам команды свободно перемещаться между ветками других разработчиков для копирования нужных фрагментов кода.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Бывают и обратные ситуации, когда несколько разработчиков одновременно дописывают код, заливают его в master-ветку и сталкиваются с конфликтом — один файл получает несколько несогласованных изменений. В этом случае Git попробует автоматически исправить ошибки. Если не получится, разработчики это увидят и смогут поправить код вручную.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Система контроля версий открывает доступ к веткам других разработчиков&#34; srcset=&#34;
+               /post/choice/images/3_hu07a7d258261d72db22a14f5e291b2f65_6954_95c20176276cb83223f7f98d100cefdc.webp 400w,
+               /post/choice/images/3_hu07a7d258261d72db22a14f5e291b2f65_6954_6a53570b3ece7b51f7d6094cd0fb2b0a.webp 760w,
+               /post/choice/images/3_hu07a7d258261d72db22a14f5e291b2f65_6954_1200x1200_fit_q75_h2_lanczos_2.webp 1200w&#34;
+               src=&#34;https://example.com/post/choice/images/3_hu07a7d258261d72db22a14f5e291b2f65_6954_95c20176276cb83223f7f98d100cefdc.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
