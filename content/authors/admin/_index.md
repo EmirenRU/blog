@@ -26,7 +26,7 @@ education:
   courses:
     - course: BSc Mathematics and Computer Science
       institution: Peoples' Friendship University of Russia
-      year: 2024
+      year: 2025
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
