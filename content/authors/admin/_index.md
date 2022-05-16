@@ -48,6 +48,26 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
+  - icon: orcid
+    icon_pack: ai
+    link: https://orcid.org/my-orcid?orcid=0000-0003-4859-244X
+  - icon: researchgate
+    icon_pack: ai
+    link: https:www.researchgate.net/profile/Emil-Samigullin
+  - icon: academia
+    icon_pack: ai
+    link: https://independent.academia.edu/ESamigullin
+  - icon: fa-github
+    icon_pack: fab
+    link: https://github.com/EmirenRU
+  - icon: youtube
+    icon_pack: fab
+    link: https://www.youtube.com/channel/UC6SmPfUmWW5si-ugQGRhcAw
+
+
+
+
+
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,

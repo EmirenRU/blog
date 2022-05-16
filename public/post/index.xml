@@ -5,12 +5,173 @@
     <link>https://example.com/post/</link>
       <atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 10 May 2022 11:21:17 +0300</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 16 May 2022 12:16:19 +0300</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
       <link>https://example.com/post/</link>
     </image>
+    
+    <item>
+      <title>How to Write a Report: A Guide</title>
+      <link>https://example.com/post/report-or-presentation/</link>
+      <pubDate>Mon, 16 May 2022 12:16:19 +0300</pubDate>
+      <guid>https://example.com/post/report-or-presentation/</guid>
+      <description>&lt;p&gt;A report is a nonfiction account that presents and/or summarizes the facts about a particular event, topic, or issue. The idea is that people who are unfamiliar with the subject can find everything they need to know from a good report.&lt;/p&gt;
+&lt;p&gt;Reports make it easy to catch someone up to speed on a subject, but actually writing a report is anything but easy. So to help you understand what to do, below we present a little report of our own, all about report writing.&lt;/p&gt;
+&lt;h2 id=&#34;what-is-a-report&#34;&gt;What is a report?&lt;/h2&gt;
+&lt;p&gt;In technical terms, the definition of a report is pretty vague: any account, spoken or written, of the matters concerning a particular topic. This could refer to anything from a courtroom testimony to a grade schooler’s book report.&lt;/p&gt;
+&lt;p&gt;Really, when people talk about “reports,” they’re usually referring to official documents outlining the facts of a topic, typically written by an expert on the subject or someone assigned to investigate it. There are different types of reports, explained in the next section, but they mostly fit this description.&lt;/p&gt;
+&lt;p&gt;What kind of information is shared in reports? Although all facts are welcome, reports, in particular, tend to feature these types of content:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Details of an event or situation&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The consequences or ongoing effect of an event or situation&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Evaluation of statistical data or analytics&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Interpretations from the information in the report&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Predictions or recommendations based on the information in the report&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;How the information relates to other events or reports&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Reports are closely related to essay writing, although there are some clear distinctions. While both rely on facts, essays add the personal opinions and arguments of the authors. Reports typically stick only to the facts, although they may include some of the author’s interpretation of these facts, most likely in the conclusion.&lt;/p&gt;
+&lt;p&gt;Moreover, reports are heavily organized, commonly with tables of contents and copious headings and subheadings. This makes it easier for readers to scan reports for the information they’re looking for. Essays, on the other hand, are meant to be read start to finish, not browsed for specific insights.&lt;/p&gt;
+&lt;h2 id=&#34;types-of-reports&#34;&gt;Types of reports&lt;/h2&gt;
+&lt;p&gt;There are a few different types of reports, depending on the purpose and to whom you present your report. Here’s a quick list of the common types of reports:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Academic report: Tests a student’s comprehension of the subject matter, such as book reports, reports on historical events, and biographies&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Business reports: Identifies information useful in business strategy, such as marketing reports, internal memos, SWOT analysis, and feasibility reports&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Scientific reports: Shares research findings, such as research papers and case studies, typically in science journals&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Reports can be further divided into categories based on how they are written. For example, a report could be formal or informal, short or long, and internal or external. In business, a vertical report shares information with people on different levels of the hierarchy (i.e., people who work above you and below you), while a lateral report is for people on the author’s same level, but in different departments.&lt;/p&gt;
+&lt;p&gt;There are as many types of reports as there are writing styles, but in this guide, we focus on academic reports, which tend to be formal and informational.&lt;/p&gt;
+&lt;h2 id=&#34;what-is-the-structure-of-a-report&#34;&gt;What is the structure of a report?&lt;/h2&gt;
+&lt;p&gt;The structure of a report depends on the type of report and the requirements of the assignment. While reports can use their own unique structure, most follow this basic template:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Executive summary: Just like an abstract in an academic paper, an executive summary is a standalone section that summarizes the findings in your report so readers know what to expect. These are mostly for official reports and less so for school reports.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Introduction: Setting up the body of the report, your introduction explains the overall topic that you’re about to discuss, with your thesis statement and any need-to-know background information before you get into your own findings.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Body: The body of the report explains all your major discoveries, broken up into headings and subheadings. The body makes up the majority of the entire report; whereas the introduction and conclusion are just a few paragraphs each, the body can go on for pages.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Conclusion: The conclusion is where you bring together all the information in your report and come to a definitive interpretation or judgment. This is usually where the author inputs their own personal opinions or inferences.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;If you’re familiar with how to write a research paper, you’ll notice that report writing follows the same introduction-body-conclusion structure, sometimes adding an executive summary. Reports usually have their own additional requirements as well, such as title pages and tables of content, which we explain in the next section.&lt;/p&gt;
+&lt;h2 id=&#34;what-should-be-included-in-a-report&#34;&gt;What should be included in a report?&lt;/h2&gt;
+&lt;p&gt;There are no firm requirements for what’s included in a report. Every school, company, laboratory, task manager, and teacher can make their own format, depending on their unique needs. In general, though, be on the lookout for these particular requirements—they tend to crop up a lot:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Title page: Official reports often use a title page to keep things organized; if a person has to read multiple reports, title pages make them easier to keep track of.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Table of contents: Just like in books, the table of contents helps readers go directly to the section they’re interested in, allowing for faster browsing.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Page numbering: A common courtesy if you’re writing a longer report, page numbering makes sure the pages are in order in the case of mix-ups or misprints.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Headings and subheadings: Reports are typically broken up into sections, divided by headings and subheadings, to facilitate browsing and scanning.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Citations: If you’re citing information from another source, the citations guidelines tell you the recommended format.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Works cited page: A bibliography at the end of the report lists credits and the legal information for the other sources you got information from.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;As always, refer to the assignment for the specific guidelines on each of these. The people who read the report should tell you which style guides or formatting they require.&lt;/p&gt;
+&lt;h2 id=&#34;how-to-write-a-report-in-7-steps&#34;&gt;How to write a report in 7 steps&lt;/h2&gt;
+&lt;p&gt;Now let’s get into the specifics of how to write a report. Follow the seven steps on report writing below to take you from an idea to a completed paper.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Choose a topic based on the assignment&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Before you start writing, you need to pick the topic of your report. Often, the topic is assigned for you, as with most business reports, or predetermined by the nature of your work, as with scientific reports. If that’s the case, you can ignore this step and move on.&lt;/p&gt;
+&lt;p&gt;If you’re in charge of choosing your own topic, as with a lot of academic reports, then this is one of the most important steps in the whole writing process. Try to pick a topic that fits these two criteria:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;There’s adequate information: Choose a topic that’s not too general but not too specific, with enough information to fill your report without padding, but not too much that you can’t cover everything.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;It’s something you’re interested in: Although this isn’t a strict requirement, it does help the quality of a report if you’re engaged by the subject matter.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Of course, don’t forget the instructions of the assignment, including length, so keep those in the back of your head when deciding.&lt;/p&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;Conduct research&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;With business and scientific reports, the research is usually your own or provided by the company—although there’s still plenty of digging for external sources in both.&lt;/p&gt;
+&lt;p&gt;For academic papers, you’re largely on your own for research, unless you’re required to use class materials. That’s one of the reasons why choosing the right topic is so crucial; you won’t go far if the topic you picked doesn’t have enough available research.&lt;/p&gt;
+&lt;p&gt;The key is to search only for reputable sources: official documents, other reports, research papers, case studies, books from respected authors, etc. Feel free to use research cited in other similar reports. You can often find a lot of information online through search engines, but a quick trip to the library can also help in a pinch.&lt;/p&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;Write a thesis statement&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Before you go any further, write a thesis statement to help you conceptualize the main theme of your report. Just like the topic sentence of a paragraph, the thesis statement summarizes the main point of your writing, in this case, the report.&lt;/p&gt;
+&lt;p&gt;Once you’ve collected enough research, you should notice some trends and patterns in the information. If these patterns all infer or lead up to a bigger, overarching point, that’s your thesis statement.&lt;/p&gt;
+&lt;p&gt;For example, if you were writing a report on the wages of fast-food employees, your thesis might be something like, “Although wages used to be commensurate with living expenses, after years of stagnation they are no longer adequate.” From there, the rest of your report will elaborate on that thesis, with ample evidence and supporting arguments.&lt;/p&gt;
+&lt;p&gt;It’s good to include your thesis statement in both the executive summary and introduction of your report, but you still want to figure it out early so you know which direction to go when you work on your outline next.&lt;/p&gt;
+&lt;ol start=&#34;4&#34;&gt;
+&lt;li&gt;Prepare an outline&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Writing an outline is recommended for all kinds of writing, but it’s especially useful for reports given their emphasis on organization. Because reports are often separated by headings and subheadings, a solid outline makes sure you stay on track while writing without missing anything.&lt;/p&gt;
+&lt;p&gt;Really, you should start thinking about your outline during the research phase, when you start to notice patterns and trends. If you’re stuck, try making a list of all the key points, details, and evidence you want to mention. See if you can fit them into general and specific categories, which you can turn into headings and subheadings respectively.&lt;/p&gt;
+&lt;ol start=&#34;5&#34;&gt;
+&lt;li&gt;Write a rough draft&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Actually writing the rough draft, or first draft, is usually the most time-consuming step. Here’s where you take all the information from your research and put it into words. To avoid getting overwhelmed, simply follow your outline step by step to make sure you don’t accidentally leave out anything.&lt;/p&gt;
+&lt;p&gt;Don’t be afraid to make mistakes; that’s the number one rule for writing a rough draft. Expecting your first draft to be perfect adds a lot of pressure. Instead, write in a natural and relaxed way, and worry about the specific details like word choice and correcting mistakes later. That’s what the last two steps are for, anyway.&lt;/p&gt;
+&lt;ol start=&#34;6&#34;&gt;
+&lt;li&gt;Revise and edit your report&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Once your rough draft is finished, it’s time to go back and start fixing the mistakes you ignored the first time around. (Before you dive right back in, though, it helps to sleep on it to start editing fresh, or at least take a small break to unwind from writing the rough draft.)&lt;/p&gt;
+&lt;p&gt;We recommend first rereading your report for any major issues, such as cutting or moving around entire sentences and paragraphs. Sometimes you’ll find your data doesn’t line up, or that you misinterpreted a key piece of evidence. This is the right time to fix the “big picture” mistakes and rewrite any longer sections as needed.&lt;/p&gt;
+&lt;p&gt;If you’re unfamiliar with what to look for when editing, you can read our previous guide with some more advanced self-editing tips.&lt;/p&gt;
+&lt;ol start=&#34;7&#34;&gt;
+&lt;li&gt;Proofread and check for mistakes&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Last, it pays to go over your report one final time, just to optimize your wording and check for grammatical or spelling mistakes. In the previous step you checked for “big picture” mistakes, but here you’re looking for specific, even nitpicky problems.&lt;/p&gt;
+&lt;p&gt;A writing assistant like Grammarly flags those issues for you. Grammarly’s free version points out any spelling and grammatical mistakes while you write, with suggestions to improve your writing that you can apply with just one click. The Premium version offers even more advanced features, such as tone adjustments and word choice recommendations for taking your writing to the next level.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>May 9 to 15</title>
+      <link>https://example.com/post/may-9-to-15/</link>
+      <pubDate>Mon, 16 May 2022 12:15:42 +0300</pubDate>
+      <guid>https://example.com/post/may-9-to-15/</guid>
+      <description>&lt;h1 id=&#34;hello-again&#34;&gt;Hello, again!&lt;/h1&gt;
+&lt;p&gt;I am starting to write a second post about my last week. So what&amp;rsquo;s happened there:&lt;/p&gt;
+&lt;h2 id=&#34;lab&#34;&gt;lab&lt;/h2&gt;
+&lt;p&gt;We did labs №9 and №10. What were they about?&lt;/p&gt;
+&lt;p&gt;Lab №9 was about Text Redactor Emacs. It&amp;rsquo;s terrible redactor worse than Vim.
+So many shortcuts and long start-up.&lt;/p&gt;
+&lt;p&gt;Lab №10 was about programming on language Bash. We made some scripts like (ls or dir), each argument on next line, backup sh file in archive, and type of file counter&lt;/p&gt;
+&lt;h2 id=&#34;programming-classes&#34;&gt;Programming classes&lt;/h2&gt;
+&lt;p&gt;We had a lab to make a Vector class with overloading operators and some constructors and destructors.&lt;/p&gt;
+&lt;h1 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h1&gt;
+&lt;p&gt;I had spent time solving labs and i had no time for myself :(&lt;/p&gt;
+&lt;p&gt;Thanks for reading&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Markdown</title>

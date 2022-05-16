@@ -5,12 +5,32 @@
     <link>https://example.com/category/weeks-report/</link>
       <atom:link href="https://example.com/category/weeks-report/index.xml" rel="self" type="application/rss+xml" />
     <description>Weeks&#39; Report</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 10 May 2022 11:20:56 +0300</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 16 May 2022 12:15:42 +0300</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Weeks&#39; Report</title>
       <link>https://example.com/category/weeks-report/</link>
     </image>
+    
+    <item>
+      <title>May 9 to 15</title>
+      <link>https://example.com/post/may-9-to-15/</link>
+      <pubDate>Mon, 16 May 2022 12:15:42 +0300</pubDate>
+      <guid>https://example.com/post/may-9-to-15/</guid>
+      <description>&lt;h1 id=&#34;hello-again&#34;&gt;Hello, again!&lt;/h1&gt;
+&lt;p&gt;I am starting to write a second post about my last week. So what&amp;rsquo;s happened there:&lt;/p&gt;
+&lt;h2 id=&#34;lab&#34;&gt;lab&lt;/h2&gt;
+&lt;p&gt;We did labs №9 and №10. What were they about?&lt;/p&gt;
+&lt;p&gt;Lab №9 was about Text Redactor Emacs. It&amp;rsquo;s terrible redactor worse than Vim.
+So many shortcuts and long start-up.&lt;/p&gt;
+&lt;p&gt;Lab №10 was about programming on language Bash. We made some scripts like (ls or dir), each argument on next line, backup sh file in archive, and type of file counter&lt;/p&gt;
+&lt;h2 id=&#34;programming-classes&#34;&gt;Programming classes&lt;/h2&gt;
+&lt;p&gt;We had a lab to make a Vector class with overloading operators and some constructors and destructors.&lt;/p&gt;
+&lt;h1 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h1&gt;
+&lt;p&gt;I had spent time solving labs and i had no time for myself :(&lt;/p&gt;
+&lt;p&gt;Thanks for reading&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Week May 2 to May 8</title>
