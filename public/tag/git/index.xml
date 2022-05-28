@@ -17,13 +17,13 @@
       <link>https://example.com/post/choice/</link>
       <pubDate>Thu, 05 May 2022 22:44:53 +0300</pubDate>
       <guid>https://example.com/post/choice/</guid>
-      <description>&lt;p&gt;Git — это система для управления версиями исходного кода программ. В статье мы познакомимся с её основными возможностями, покажем отличие от GitHub и объясним, зачем Git новичку. Ещё вы узнаете, с чего начать обучение и почему не стоит тратить время на альтернативные программы.&lt;/p&gt;
-&lt;h1 id=&#34;git--это-система-коммитов&#34;&gt;Git — это система коммитов&lt;/h1&gt;
-&lt;p&gt;Представьте ситуацию: геймер доходит до финала, проигрывает и возвращается к началу уровня — попадает в ближайшую контрольную точку игры, где разработчики разрешили сохраниться. Если мы уберём контрольные точки, после каждого проигрыша придётся начинать игру заново.&lt;/p&gt;
+      <description>&lt;p&gt;Git is a system for managing the source code versions of programs. In the article we will get acquainted with its main features, show the difference from GitHub and explain why Git is for a beginner. You will also learn where to start learning and why it is not worth wasting time on alternative programs.&lt;/p&gt;
+&lt;p&gt;#Git is a commit system&lt;/p&gt;
+&lt;p&gt;Imagine the situation: a gamer reaches the final, loses and returns to the beginning of the level — gets to the nearest control point of the game, where the developers allowed to be saved. If we remove the checkpoints, after each loss we will have to start the game again.&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;В программировании за сохранение кода в контрольных точках отвечает система контроля версий — специальная технология, которую можно подключить к любому проекту. Система контроля версий страхует от ошибок и возвращает код в то состояние, когда всё работало.&lt;/p&gt;
+&lt;p&gt;In programming, the version control system is responsible for saving code at checkpoints — a special technology that can be connected to any project. The version control system insures against errors and returns the code to the state when everything worked.&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;Контрольные точки называются коммитами. Один коммит — это пакет изменений, хранящий информацию с добавленными, отредактированными или удалёнными файлами кода. В один коммит принято добавлять не более десяти изменений — так получается длинная история версий, которая позволяет в случае ошибки откатиться с минимальной потерей работоспособного кода.&lt;/p&gt;
+&lt;p&gt;Checkpoints are called commits. A single commit is a package of changes that stores information with added, edited, or deleted code files. It is customary to add no more than ten changes to one commit — this is how a long version history turns out, which allows you to roll back in case of an error with minimal loss of workable code.&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -42,7 +42,7 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Система контроля версий — это хранилище с файлами всех изменений проекта. Оно позволяет вернуть проект в любое предыдущее состояние, когда программа стабильно работала&#34; srcset=&#34;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;The version control system is a repository with files of all project changes. It allows you to return the project to any previous state when the program was working stably&#34; srcset=&#34;
                /post/choice/images/1_hu3d344bab70c2efb59841d7137a55c0e5_6504_d62366b2233a59cefacaebc706160e88.webp 400w,
                /post/choice/images/1_hu3d344bab70c2efb59841d7137a55c0e5_6504_df6b2cb1562eeaf0aedd35e449e9b556.webp 760w,
                /post/choice/images/1_hu3d344bab70c2efb59841d7137a55c0e5_6504_1200x1200_fit_q75_h2_lanczos_2.webp 1200w&#34;
@@ -52,12 +52,12 @@
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
-&lt;h1 id=&#34;git--это-комплекс-связанных-веток&#34;&gt;Git — это комплекс связанных веток&lt;/h1&gt;
-&lt;p&gt;Коммиты располагаются на master-ветке — основной версии проекта, которая после завершения работы превратится в продукт.&lt;/p&gt;
+&lt;p&gt;#Git is a complex of related branches&lt;/p&gt;
+&lt;p&gt;Commits are located on the master branch - the main version of the project, which will turn into a product after completion.&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Система контроля версий позволяет создавать ответвления от master-ветки и экспериментировать с проектом, не мешая другим участника команды.&lt;/p&gt;
+&lt;p&gt;The version control system allows you to create branches from the master branch and experiment with the project without interfering with other team members.&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;Возьмём предыдущую схему, где мы обнаружили ошибку и откатились на один коммит назад. Чтобы поправить код, создадим несколько дополнительных веток и в каждой протестируем разные варианты решения проблемы. Когда решение найдено, ветку с правильным кодом переносим в master-ветку и сохраняем коммит. Лишние ветки оставляем или удаляем, поскольку они не влияют на проект и скрыты от других разработчиков — это ваш личный черновик.&lt;/p&gt;
+&lt;p&gt;Let&amp;rsquo;s take the previous scheme, where we found an error and rolled back one commit. To fix the code, we will create several additional branches and test different solutions to the problem in each one. When a solution is found, we transfer the branch with the correct code to the master branch and save the commit. We leave or delete the extra branches, because they do not affect the project and are hidden from other developers — this is your personal draft.&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -76,7 +76,7 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Система контроля версий помогает разработчикам параллельно работать над проектом, не мешать друг другу и добавлять в master-ветку только качественный код&#34; srcset=&#34;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;The version control system helps developers to work on the project in parallel, not to interfere with each other and add only high-quality code to the master branch&#34; srcset=&#34;
                /post/choice/images/2_hua10696087e5d022e714be5434b68cc9b_8208_820565f6ce4bd6c97d0e57e3d079b12c.webp 400w,
                /post/choice/images/2_hua10696087e5d022e714be5434b68cc9b_8208_9469b465640bd065635552d2290cc50b.webp 760w,
                /post/choice/images/2_hua10696087e5d022e714be5434b68cc9b_8208_1200x1200_fit_q75_h2_lanczos_2.webp 1200w&#34;
@@ -86,12 +86,12 @@
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
-&lt;h1 id=&#34;git--это-инструмент-совместного-создания-кода&#34;&gt;Git — это инструмент совместного создания кода&lt;/h1&gt;
-&lt;p&gt;Часто бывает так: разработчики отделяются от master-ветки и работают над частью проекта самостоятельно — например, чтобы протестировать дополнительные функции. Но не могут продолжить, пока кто-то из команды не допишет код.&lt;/p&gt;
+&lt;p&gt;#Git is a collaborative code creation tool&lt;/p&gt;
+&lt;p&gt;It often happens like this: developers separate from the master branch and work on part of the project on their own - for example, to test additional functions. But they can&amp;rsquo;t continue until someone from the team completes the code.&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Система контроля версий позволяет не ждать обновления master-ветки и разрешает всем участникам команды свободно перемещаться между ветками других разработчиков для копирования нужных фрагментов кода.&lt;/p&gt;
+&lt;p&gt;The version control system allows you not to wait for the master branch to be updated and allows all team members to move freely between the branches of other developers to copy the necessary code fragments.&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;Бывают и обратные ситуации, когда несколько разработчиков одновременно дописывают код, заливают его в master-ветку и сталкиваются с конфликтом — один файл получает несколько несогласованных изменений. В этом случае Git попробует автоматически исправить ошибки. Если не получится, разработчики это увидят и смогут поправить код вручную.&lt;/p&gt;
+&lt;p&gt;There are also reverse situations when several developers simultaneously add code, upload it to the master branch and face a conflict - one file receives several inconsistent changes. In this case, Git will try to fix the errors automatically. If it doesn&amp;rsquo;t work out, the developers will see it and will be able to correct the code manually.&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -110,7 +110,7 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Система контроля версий открывает доступ к веткам других разработчиков&#34; srcset=&#34;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Version control system opens access to branches of other developers&#34; srcset=&#34;
                /post/choice/images/3_hu07a7d258261d72db22a14f5e291b2f65_6954_95c20176276cb83223f7f98d100cefdc.webp 400w,
                /post/choice/images/3_hu07a7d258261d72db22a14f5e291b2f65_6954_6a53570b3ece7b51f7d6094cd0fb2b0a.webp 760w,
                /post/choice/images/3_hu07a7d258261d72db22a14f5e291b2f65_6954_1200x1200_fit_q75_h2_lanczos_2.webp 1200w&#34;

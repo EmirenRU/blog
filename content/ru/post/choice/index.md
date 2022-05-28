@@ -1,9 +1,9 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "What is Git."
+title: "Что такое Git."
 subtitle: ""
-summary: "Development teams use a version control system. Most often it is Git. We understand what this means, why it is necessary and how it works."
+summary: "Команды разработчиков используют систему контроля версий. Чаще всего это Git. Мы понимаем, что это значит, почему это необходимо и как это работает."
 authors: [Emil Samigullin]
 tags: [Git]
 categories: [Git]
