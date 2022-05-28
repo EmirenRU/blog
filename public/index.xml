@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Academic</title>
-    <link>https//emirenru.github.io/en/</link>
-      <atom:link href="https//emirenru.github.io/en/index.xml" rel="self" type="application/rss+xml" />
+    <link>/</link>
+      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Academic</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>/https/emirenru.github.io/en/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Academic</title>
-      <link>https//emirenru.github.io/en/</link>
+      <link>/</link>
     </image>
     
     <item>
       <title>Example Talk</title>
-      <link>https//emirenru.github.io/en/talk/example-talk/</link>
+      <link>/talk/example-talk/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https//emirenru.github.io/en/talk/example-talk/</guid>
+      <guid>/talk/example-talk/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -34,9 +34,9 @@
     
     <item>
       <title>May 23-29</title>
-      <link>https//emirenru.github.io/en/post/recent-week-2/</link>
+      <link>/post/recent-week-2/</link>
       <pubDate>Sat, 28 May 2022 17:28:13 +0300</pubDate>
-      <guid>https//emirenru.github.io/en/post/recent-week-2/</guid>
+      <guid>/post/recent-week-2/</guid>
       <description>&lt;h1 id=&#34;hello-again&#34;&gt;Hello again.&lt;/h1&gt;
 &lt;h2 id=&#34;i-am-starting-to-write-a-another-post-about-my-recent-week&#34;&gt;I am starting to write a another post about my recent week.&lt;/h2&gt;
 &lt;h3 id=&#34;personal-feelings&#34;&gt;Personal Feelings&lt;/h3&gt;
@@ -48,9 +48,9 @@
     
     <item>
       <title>Scientific Programming Language</title>
-      <link>https//emirenru.github.io/en/post/scientific-programming-language/</link>
+      <link>/post/scientific-programming-language/</link>
       <pubDate>Sun, 22 May 2022 13:11:32 +0300</pubDate>
-      <guid>https//emirenru.github.io/en/post/scientific-programming-language/</guid>
+      <guid>/post/scientific-programming-language/</guid>
       <description>&lt;p&gt;In computer programming, a scientific programming language can refer to two degrees of the same concept.&lt;/p&gt;
 &lt;p&gt;In a wide sense, a scientific programming language is a programming language that is used widely for computational science and computational mathematics. In this sense, C/C++ and Python[1] can be considered scientific programming languages.&lt;/p&gt;
 &lt;p&gt;In a stronger sense, a scientific programming language is one that is designed and optimized for the use of mathematical formula and matrices.[2] Such languages are characterized not only by the availability of libraries performing mathematical or scientific functions, but by the syntax of the language itself.[3] For example, neither C++ nor Python have built-in matrix types or functions for matrix arithmetic (addition, multiplication etc); instead, this functionality is made available through standard libraries. Scientific programming languages in the stronger sense include ALGOL, APL, Fortran, J, Julia, Maple, MATLAB and R.[4][5]&lt;/p&gt;
@@ -80,9 +80,9 @@ optimize(z -&amp;gt; P(z...), z₀, Newton();
     
     <item>
       <title>May 16 to 22</title>
-      <link>https//emirenru.github.io/en/post/may-16-to-22/</link>
+      <link>/post/may-16-to-22/</link>
       <pubDate>Sun, 22 May 2022 13:11:17 +0300</pubDate>
-      <guid>https//emirenru.github.io/en/post/may-16-to-22/</guid>
+      <guid>/post/may-16-to-22/</guid>
       <description>&lt;h1 id=&#34;the-universe-is-full-of-questions-that-you-will-never-answer-yet-there-are-also-ones-that-only-you-can-answer-when-the-truth-is-revealed-what-will-you-do&#34;&gt;The universe is full of questions that you will never answer. Yet&amp;hellip; there are also ones that only you can answer. When the truth is revealed, what will you do?&lt;/h1&gt;
 &lt;h2 id=&#34;okay-hello-again-i-added-quote-from-omori-game-to-not-to-do-so-common-so-lets-talk-about-personal-life&#34;&gt;Okay, Hello again, I added quote from OMORI game, to not to do so common. So let&amp;rsquo;s talk about Personal Life.&lt;/h2&gt;
 &lt;h3 id=&#34;omori&#34;&gt;OMORI&lt;/h3&gt;
@@ -96,9 +96,9 @@ optimize(z -&amp;gt; P(z...), z₀, Newton();
     
     <item>
       <title>Operating Systems</title>
-      <link>https//emirenru.github.io/en/project/operating-systems/</link>
+      <link>/project/operating-systems/</link>
       <pubDate>Sun, 22 May 2022 13:06:33 +0300</pubDate>
-      <guid>https//emirenru.github.io/en/project/operating-systems/</guid>
+      <guid>/project/operating-systems/</guid>
       <description>&lt;h1 id=&#34;linux-project&#34;&gt;Linux Project&lt;/h1&gt;
 &lt;p&gt;
 
@@ -119,10 +119,10 @@ optimize(z -&amp;gt; P(z...), z₀, Newton();
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /https/emirenru.github.io/en/project/operating-systems/linux_hu97493a239b62773cfb5bd55bf6691e76_123692_96807ce01ea501158a0e90a8f69fb2ae.webp 400w,
-               /https/emirenru.github.io/en/project/operating-systems/linux_hu97493a239b62773cfb5bd55bf6691e76_123692_f0084fde23b942e3be7c419829f1fe8f.webp 760w,
-               /https/emirenru.github.io/en/project/operating-systems/linux_hu97493a239b62773cfb5bd55bf6691e76_123692_1200x1200_fit_q75_h2_lanczos_2.webp 1200w&#34;
-               src=&#34;https//emirenru.github.io/en/https/emirenru.github.io/en/project/operating-systems/linux_hu97493a239b62773cfb5bd55bf6691e76_123692_96807ce01ea501158a0e90a8f69fb2ae.webp&#34;
+               /project/operating-systems/linux_hu97493a239b62773cfb5bd55bf6691e76_123692_96807ce01ea501158a0e90a8f69fb2ae.webp 400w,
+               /project/operating-systems/linux_hu97493a239b62773cfb5bd55bf6691e76_123692_f0084fde23b942e3be7c419829f1fe8f.webp 760w,
+               /project/operating-systems/linux_hu97493a239b62773cfb5bd55bf6691e76_123692_1200x1200_fit_q75_h2_lanczos_2.webp 1200w&#34;
+               src=&#34;/project/operating-systems/linux_hu97493a239b62773cfb5bd55bf6691e76_123692_96807ce01ea501158a0e90a8f69fb2ae.webp&#34;
                width=&#34;760&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -134,9 +134,9 @@ optimize(z -&amp;gt; P(z...), z₀, Newton();
     
     <item>
       <title>How to Write a Report: A Guide</title>
-      <link>https//emirenru.github.io/en/post/report-or-presentation/</link>
+      <link>/post/report-or-presentation/</link>
       <pubDate>Mon, 16 May 2022 12:16:19 +0300</pubDate>
-      <guid>https//emirenru.github.io/en/post/report-or-presentation/</guid>
+      <guid>/post/report-or-presentation/</guid>
       <description>&lt;p&gt;A report is a nonfiction account that presents and/or summarizes the facts about a particular event, topic, or issue. The idea is that people who are unfamiliar with the subject can find everything they need to know from a good report.&lt;/p&gt;
 &lt;p&gt;Reports make it easy to catch someone up to speed on a subject, but actually writing a report is anything but easy. So to help you understand what to do, below we present a little report of our own, all about report writing.&lt;/p&gt;
 &lt;h2 id=&#34;what-is-a-report&#34;&gt;What is a report?&lt;/h2&gt;
@@ -275,9 +275,9 @@ optimize(z -&amp;gt; P(z...), z₀, Newton();
     
     <item>
       <title>May 9 to 15</title>
-      <link>https//emirenru.github.io/en/post/may-9-to-15/</link>
+      <link>/post/may-9-to-15/</link>
       <pubDate>Mon, 16 May 2022 12:15:42 +0300</pubDate>
-      <guid>https//emirenru.github.io/en/post/may-9-to-15/</guid>
+      <guid>/post/may-9-to-15/</guid>
       <description>&lt;h1 id=&#34;hello-again&#34;&gt;Hello, again!&lt;/h1&gt;
 &lt;p&gt;I am starting to write a second post about my last week. So what&amp;rsquo;s happened there:&lt;/p&gt;
 &lt;h2 id=&#34;lab&#34;&gt;lab&lt;/h2&gt;
@@ -295,9 +295,9 @@ So many shortcuts and long start-up.&lt;/p&gt;
     
     <item>
       <title>Markdown</title>
-      <link>https//emirenru.github.io/en/post/markdown/</link>
+      <link>/post/markdown/</link>
       <pubDate>Tue, 10 May 2022 11:21:17 +0300</pubDate>
-      <guid>https//emirenru.github.io/en/post/markdown/</guid>
+      <guid>/post/markdown/</guid>
       <description>&lt;h1 id=&#34;beginner-guide-to-markdown&#34;&gt;Beginner Guide to Markdown&lt;/h1&gt;
 &lt;p&gt;Let me introduce you to markdown first,&lt;/p&gt;
 &lt;p&gt;
@@ -319,10 +319,10 @@ So many shortcuts and long start-up.&lt;/p&gt;
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;markdown logo&#34; srcset=&#34;
-               /https/emirenru.github.io/en/post/markdown/img/1_hu29704fd9e22ae7e3acf7f9ee23777277_14947_99b600292e03f117fc01f3b929abc5a7.webp 400w,
-               /https/emirenru.github.io/en/post/markdown/img/1_hu29704fd9e22ae7e3acf7f9ee23777277_14947_9a2d0359a5918b373fbedfb166ddceee.webp 760w,
-               /https/emirenru.github.io/en/post/markdown/img/1_hu29704fd9e22ae7e3acf7f9ee23777277_14947_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https//emirenru.github.io/en/https/emirenru.github.io/en/post/markdown/img/1_hu29704fd9e22ae7e3acf7f9ee23777277_14947_99b600292e03f117fc01f3b929abc5a7.webp&#34;
+               /post/markdown/img/1_hu29704fd9e22ae7e3acf7f9ee23777277_14947_99b600292e03f117fc01f3b929abc5a7.webp 400w,
+               /post/markdown/img/1_hu29704fd9e22ae7e3acf7f9ee23777277_14947_9a2d0359a5918b373fbedfb166ddceee.webp 760w,
+               /post/markdown/img/1_hu29704fd9e22ae7e3acf7f9ee23777277_14947_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;/post/markdown/img/1_hu29704fd9e22ae7e3acf7f9ee23777277_14947_99b600292e03f117fc01f3b929abc5a7.webp&#34;
                width=&#34;760&#34;
                height=&#34;467&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -430,9 +430,9 @@ So many shortcuts and long start-up.&lt;/p&gt;
     
     <item>
       <title>Week May 2 to May 8</title>
-      <link>https//emirenru.github.io/en/post/week-may-2-to-may-8/</link>
+      <link>/post/week-may-2-to-may-8/</link>
       <pubDate>Tue, 10 May 2022 11:20:56 +0300</pubDate>
-      <guid>https//emirenru.github.io/en/post/week-may-2-to-may-8/</guid>
+      <guid>/post/week-may-2-to-may-8/</guid>
       <description>&lt;h1 id=&#34;hello-world&#34;&gt;Hello, World!&lt;/h1&gt;
 &lt;p&gt;I am starting writting first post about how i spend my last week: May 2-8. So lets start with labs.&lt;/p&gt;
 &lt;h2 id=&#34;labs&#34;&gt;Labs&lt;/h2&gt;
@@ -448,9 +448,9 @@ So many shortcuts and long start-up.&lt;/p&gt;
     
     <item>
       <title>What is Git.</title>
-      <link>https//emirenru.github.io/en/post/choice/</link>
+      <link>/post/choice/</link>
       <pubDate>Thu, 05 May 2022 22:44:53 +0300</pubDate>
-      <guid>https//emirenru.github.io/en/post/choice/</guid>
+      <guid>/post/choice/</guid>
       <description>&lt;p&gt;Git is a system for managing the source code versions of programs. In the article we will get acquainted with its main features, show the difference from GitHub and explain why Git is for a beginner. You will also learn where to start learning and why it is not worth wasting time on alternative programs.&lt;/p&gt;
 &lt;p&gt;#Git is a commit system&lt;/p&gt;
 &lt;p&gt;Imagine the situation: a gamer reaches the final, loses and returns to the beginning of the level — gets to the nearest control point of the game, where the developers allowed to be saved. If we remove the checkpoints, after each loss we will have to start the game again.&lt;/p&gt;
@@ -477,10 +477,10 @@ So many shortcuts and long start-up.&lt;/p&gt;
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;The version control system is a repository with files of all project changes. It allows you to return the project to any previous state when the program was working stably&#34; srcset=&#34;
-               /https/emirenru.github.io/en/post/choice/images/1_hu3d344bab70c2efb59841d7137a55c0e5_6504_d62366b2233a59cefacaebc706160e88.webp 400w,
-               /https/emirenru.github.io/en/post/choice/images/1_hu3d344bab70c2efb59841d7137a55c0e5_6504_df6b2cb1562eeaf0aedd35e449e9b556.webp 760w,
-               /https/emirenru.github.io/en/post/choice/images/1_hu3d344bab70c2efb59841d7137a55c0e5_6504_1200x1200_fit_q75_h2_lanczos_2.webp 1200w&#34;
-               src=&#34;https//emirenru.github.io/en/https/emirenru.github.io/en/post/choice/images/1_hu3d344bab70c2efb59841d7137a55c0e5_6504_d62366b2233a59cefacaebc706160e88.webp&#34;
+               /post/choice/images/1_hu3d344bab70c2efb59841d7137a55c0e5_6504_d62366b2233a59cefacaebc706160e88.webp 400w,
+               /post/choice/images/1_hu3d344bab70c2efb59841d7137a55c0e5_6504_df6b2cb1562eeaf0aedd35e449e9b556.webp 760w,
+               /post/choice/images/1_hu3d344bab70c2efb59841d7137a55c0e5_6504_1200x1200_fit_q75_h2_lanczos_2.webp 1200w&#34;
+               src=&#34;/post/choice/images/1_hu3d344bab70c2efb59841d7137a55c0e5_6504_d62366b2233a59cefacaebc706160e88.webp&#34;
                width=&#34;760&#34;
                height=&#34;428&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -511,10 +511,10 @@ So many shortcuts and long start-up.&lt;/p&gt;
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;The version control system helps developers to work on the project in parallel, not to interfere with each other and add only high-quality code to the master branch&#34; srcset=&#34;
-               /https/emirenru.github.io/en/post/choice/images/2_hua10696087e5d022e714be5434b68cc9b_8208_820565f6ce4bd6c97d0e57e3d079b12c.webp 400w,
-               /https/emirenru.github.io/en/post/choice/images/2_hua10696087e5d022e714be5434b68cc9b_8208_9469b465640bd065635552d2290cc50b.webp 760w,
-               /https/emirenru.github.io/en/post/choice/images/2_hua10696087e5d022e714be5434b68cc9b_8208_1200x1200_fit_q75_h2_lanczos_2.webp 1200w&#34;
-               src=&#34;https//emirenru.github.io/en/https/emirenru.github.io/en/post/choice/images/2_hua10696087e5d022e714be5434b68cc9b_8208_820565f6ce4bd6c97d0e57e3d079b12c.webp&#34;
+               /post/choice/images/2_hua10696087e5d022e714be5434b68cc9b_8208_820565f6ce4bd6c97d0e57e3d079b12c.webp 400w,
+               /post/choice/images/2_hua10696087e5d022e714be5434b68cc9b_8208_9469b465640bd065635552d2290cc50b.webp 760w,
+               /post/choice/images/2_hua10696087e5d022e714be5434b68cc9b_8208_1200x1200_fit_q75_h2_lanczos_2.webp 1200w&#34;
+               src=&#34;/post/choice/images/2_hua10696087e5d022e714be5434b68cc9b_8208_820565f6ce4bd6c97d0e57e3d079b12c.webp&#34;
                width=&#34;760&#34;
                height=&#34;428&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -545,10 +545,10 @@ So many shortcuts and long start-up.&lt;/p&gt;
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Version control system opens access to branches of other developers&#34; srcset=&#34;
-               /https/emirenru.github.io/en/post/choice/images/3_hu07a7d258261d72db22a14f5e291b2f65_6954_95c20176276cb83223f7f98d100cefdc.webp 400w,
-               /https/emirenru.github.io/en/post/choice/images/3_hu07a7d258261d72db22a14f5e291b2f65_6954_6a53570b3ece7b51f7d6094cd0fb2b0a.webp 760w,
-               /https/emirenru.github.io/en/post/choice/images/3_hu07a7d258261d72db22a14f5e291b2f65_6954_1200x1200_fit_q75_h2_lanczos_2.webp 1200w&#34;
-               src=&#34;https//emirenru.github.io/en/https/emirenru.github.io/en/post/choice/images/3_hu07a7d258261d72db22a14f5e291b2f65_6954_95c20176276cb83223f7f98d100cefdc.webp&#34;
+               /post/choice/images/3_hu07a7d258261d72db22a14f5e291b2f65_6954_95c20176276cb83223f7f98d100cefdc.webp 400w,
+               /post/choice/images/3_hu07a7d258261d72db22a14f5e291b2f65_6954_6a53570b3ece7b51f7d6094cd0fb2b0a.webp 760w,
+               /post/choice/images/3_hu07a7d258261d72db22a14f5e291b2f65_6954_1200x1200_fit_q75_h2_lanczos_2.webp 1200w&#34;
+               src=&#34;/post/choice/images/3_hu07a7d258261d72db22a14f5e291b2f65_6954_95c20176276cb83223f7f98d100cefdc.webp&#34;
                width=&#34;760&#34;
                height=&#34;428&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -559,9 +559,9 @@ So many shortcuts and long start-up.&lt;/p&gt;
     
     <item>
       <title>Lab</title>
-      <link>https//emirenru.github.io/en/post/last_week/</link>
+      <link>/post/last_week/</link>
       <pubDate>Thu, 05 May 2022 22:44:37 +0300</pubDate>
-      <guid>https//emirenru.github.io/en/post/last_week/</guid>
+      <guid>/post/last_week/</guid>
       <description>&lt;h1 id=&#34;цель-работы&#34;&gt;Цель Работы&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;Приобретение практических навыков взаимодействия пользователя с системой посредством командной строки&lt;/strong&gt;&lt;/p&gt;
 &lt;h1 id=&#34;ход-работы&#34;&gt;Ход Работы&lt;/h1&gt;
@@ -587,10 +587,10 @@ So many shortcuts and long start-up.&lt;/p&gt;
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Определили с помощью команды pwd&#34; srcset=&#34;
-               /https/emirenru.github.io/en/post/last_week/Images/1_hue4c4a161bf00fd7e11f3675fa5f63eb9_240308_241780ab0ce8ce7a166ff749e26d2289.webp 400w,
-               /https/emirenru.github.io/en/post/last_week/Images/1_hue4c4a161bf00fd7e11f3675fa5f63eb9_240308_6186fe9b4653f5b91fd0db57dd2f60c2.webp 760w,
-               /https/emirenru.github.io/en/post/last_week/Images/1_hue4c4a161bf00fd7e11f3675fa5f63eb9_240308_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https//emirenru.github.io/en/https/emirenru.github.io/en/post/last_week/Images/1_hue4c4a161bf00fd7e11f3675fa5f63eb9_240308_241780ab0ce8ce7a166ff749e26d2289.webp&#34;
+               /post/last_week/Images/1_hue4c4a161bf00fd7e11f3675fa5f63eb9_240308_241780ab0ce8ce7a166ff749e26d2289.webp 400w,
+               /post/last_week/Images/1_hue4c4a161bf00fd7e11f3675fa5f63eb9_240308_6186fe9b4653f5b91fd0db57dd2f60c2.webp 760w,
+               /post/last_week/Images/1_hue4c4a161bf00fd7e11f3675fa5f63eb9_240308_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;/post/last_week/Images/1_hue4c4a161bf00fd7e11f3675fa5f63eb9_240308_241780ab0ce8ce7a166ff749e26d2289.webp&#34;
                width=&#34;760&#34;
                height=&#34;417&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -620,10 +620,10 @@ So many shortcuts and long start-up.&lt;/p&gt;
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Переход в каталог /tmp&#34; srcset=&#34;
-               /https/emirenru.github.io/en/post/last_week/Images/2.1_hu73a29dabca78da57929d71920fa10d4b_239630_c54677e76668a4e8db07942dad6fd7f8.webp 400w,
-               /https/emirenru.github.io/en/post/last_week/Images/2.1_hu73a29dabca78da57929d71920fa10d4b_239630_26eef863a1991ea032f67279684adfd8.webp 760w,
-               /https/emirenru.github.io/en/post/last_week/Images/2.1_hu73a29dabca78da57929d71920fa10d4b_239630_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https//emirenru.github.io/en/https/emirenru.github.io/en/post/last_week/Images/2.1_hu73a29dabca78da57929d71920fa10d4b_239630_c54677e76668a4e8db07942dad6fd7f8.webp&#34;
+               /post/last_week/Images/2.1_hu73a29dabca78da57929d71920fa10d4b_239630_c54677e76668a4e8db07942dad6fd7f8.webp 400w,
+               /post/last_week/Images/2.1_hu73a29dabca78da57929d71920fa10d4b_239630_26eef863a1991ea032f67279684adfd8.webp 760w,
+               /post/last_week/Images/2.1_hu73a29dabca78da57929d71920fa10d4b_239630_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;/post/last_week/Images/2.1_hu73a29dabca78da57929d71920fa10d4b_239630_c54677e76668a4e8db07942dad6fd7f8.webp&#34;
                width=&#34;760&#34;
                height=&#34;419&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -651,10 +651,10 @@ So many shortcuts and long start-up.&lt;/p&gt;
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Вывод содержимого с помощью ls -a&#34; srcset=&#34;
-               /https/emirenru.github.io/en/post/last_week/Images/2.2.1_huf86b49d240fcee802fb21309b1739fac_262639_ee17cf6b3efd78d28c8a1d60f1abf9a7.webp 400w,
-               /https/emirenru.github.io/en/post/last_week/Images/2.2.1_huf86b49d240fcee802fb21309b1739fac_262639_c68bb855186b4e4b93613c564dddad3e.webp 760w,
-               /https/emirenru.github.io/en/post/last_week/Images/2.2.1_huf86b49d240fcee802fb21309b1739fac_262639_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https//emirenru.github.io/en/https/emirenru.github.io/en/post/last_week/Images/2.2.1_huf86b49d240fcee802fb21309b1739fac_262639_ee17cf6b3efd78d28c8a1d60f1abf9a7.webp&#34;
+               /post/last_week/Images/2.2.1_huf86b49d240fcee802fb21309b1739fac_262639_ee17cf6b3efd78d28c8a1d60f1abf9a7.webp 400w,
+               /post/last_week/Images/2.2.1_huf86b49d240fcee802fb21309b1739fac_262639_c68bb855186b4e4b93613c564dddad3e.webp 760w,
+               /post/last_week/Images/2.2.1_huf86b49d240fcee802fb21309b1739fac_262639_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;/post/last_week/Images/2.2.1_huf86b49d240fcee802fb21309b1739fac_262639_ee17cf6b3efd78d28c8a1d60f1abf9a7.webp&#34;
                width=&#34;760&#34;
                height=&#34;419&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -682,10 +682,10 @@ So many shortcuts and long start-up.&lt;/p&gt;
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Вывод содержимого с помощью ls -l&#34; srcset=&#34;
-               /https/emirenru.github.io/en/post/last_week/Images/2.2.2_huc48f3fd92d23354d576a7bee7e021276_286050_4515a3e9eb4684221e6f4a20a2de047d.webp 400w,
-               /https/emirenru.github.io/en/post/last_week/Images/2.2.2_huc48f3fd92d23354d576a7bee7e021276_286050_43d49743c24875fbd8ecd842574af854.webp 760w,
-               /https/emirenru.github.io/en/post/last_week/Images/2.2.2_huc48f3fd92d23354d576a7bee7e021276_286050_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https//emirenru.github.io/en/https/emirenru.github.io/en/post/last_week/Images/2.2.2_huc48f3fd92d23354d576a7bee7e021276_286050_4515a3e9eb4684221e6f4a20a2de047d.webp&#34;
+               /post/last_week/Images/2.2.2_huc48f3fd92d23354d576a7bee7e021276_286050_4515a3e9eb4684221e6f4a20a2de047d.webp 400w,
+               /post/last_week/Images/2.2.2_huc48f3fd92d23354d576a7bee7e021276_286050_43d49743c24875fbd8ecd842574af854.webp 760w,
+               /post/last_week/Images/2.2.2_huc48f3fd92d23354d576a7bee7e021276_286050_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;/post/last_week/Images/2.2.2_huc48f3fd92d23354d576a7bee7e021276_286050_4515a3e9eb4684221e6f4a20a2de047d.webp&#34;
                width=&#34;760&#34;
                height=&#34;418&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -713,10 +713,10 @@ So many shortcuts and long start-up.&lt;/p&gt;
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Нахождение cron&#34; srcset=&#34;
-               /https/emirenru.github.io/en/post/last_week/Images/2.3_hu4af3356f097f1100e57571e484cc066f_276725_bafacf37ba74bce69a1c688fafd507c8.webp 400w,
-               /https/emirenru.github.io/en/post/last_week/Images/2.3_hu4af3356f097f1100e57571e484cc066f_276725_2914e434e9c375cc8b90b3bda1b323db.webp 760w,
-               /https/emirenru.github.io/en/post/last_week/Images/2.3_hu4af3356f097f1100e57571e484cc066f_276725_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https//emirenru.github.io/en/https/emirenru.github.io/en/post/last_week/Images/2.3_hu4af3356f097f1100e57571e484cc066f_276725_bafacf37ba74bce69a1c688fafd507c8.webp&#34;
+               /post/last_week/Images/2.3_hu4af3356f097f1100e57571e484cc066f_276725_bafacf37ba74bce69a1c688fafd507c8.webp 400w,
+               /post/last_week/Images/2.3_hu4af3356f097f1100e57571e484cc066f_276725_2914e434e9c375cc8b90b3bda1b323db.webp 760w,
+               /post/last_week/Images/2.3_hu4af3356f097f1100e57571e484cc066f_276725_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;/post/last_week/Images/2.3_hu4af3356f097f1100e57571e484cc066f_276725_bafacf37ba74bce69a1c688fafd507c8.webp&#34;
                width=&#34;760&#34;
                height=&#34;419&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -744,10 +744,10 @@ So many shortcuts and long start-up.&lt;/p&gt;
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Вывод содержимового дом.катаога&#34; srcset=&#34;
-               /https/emirenru.github.io/en/post/last_week/Images/2.4_hu20476f2c2d272bccd27187cbe02da7ee_279057_b0a606767b15ffadf6e4406e9571122a.webp 400w,
-               /https/emirenru.github.io/en/post/last_week/Images/2.4_hu20476f2c2d272bccd27187cbe02da7ee_279057_3c29c3d79f5eade317c3f562064bda15.webp 760w,
-               /https/emirenru.github.io/en/post/last_week/Images/2.4_hu20476f2c2d272bccd27187cbe02da7ee_279057_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https//emirenru.github.io/en/https/emirenru.github.io/en/post/last_week/Images/2.4_hu20476f2c2d272bccd27187cbe02da7ee_279057_b0a606767b15ffadf6e4406e9571122a.webp&#34;
+               /post/last_week/Images/2.4_hu20476f2c2d272bccd27187cbe02da7ee_279057_b0a606767b15ffadf6e4406e9571122a.webp 400w,
+               /post/last_week/Images/2.4_hu20476f2c2d272bccd27187cbe02da7ee_279057_3c29c3d79f5eade317c3f562064bda15.webp 760w,
+               /post/last_week/Images/2.4_hu20476f2c2d272bccd27187cbe02da7ee_279057_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;/post/last_week/Images/2.4_hu20476f2c2d272bccd27187cbe02da7ee_279057_b0a606767b15ffadf6e4406e9571122a.webp&#34;
                width=&#34;760&#34;
                height=&#34;419&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -777,10 +777,10 @@ So many shortcuts and long start-up.&lt;/p&gt;
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Cоздание newdir &amp;#43; newdir/morefun&#34; srcset=&#34;
-               /https/emirenru.github.io/en/post/last_week/Images/3.1_hu4d3afbabc75d4374393007854403772b_249028_ff6f433d3acbe52ea76f37ba5228b694.webp 400w,
-               /https/emirenru.github.io/en/post/last_week/Images/3.1_hu4d3afbabc75d4374393007854403772b_249028_bc869be2e58accb808e15b56518d02f3.webp 760w,
-               /https/emirenru.github.io/en/post/last_week/Images/3.1_hu4d3afbabc75d4374393007854403772b_249028_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https//emirenru.github.io/en/https/emirenru.github.io/en/post/last_week/Images/3.1_hu4d3afbabc75d4374393007854403772b_249028_ff6f433d3acbe52ea76f37ba5228b694.webp&#34;
+               /post/last_week/Images/3.1_hu4d3afbabc75d4374393007854403772b_249028_ff6f433d3acbe52ea76f37ba5228b694.webp 400w,
+               /post/last_week/Images/3.1_hu4d3afbabc75d4374393007854403772b_249028_bc869be2e58accb808e15b56518d02f3.webp 760w,
+               /post/last_week/Images/3.1_hu4d3afbabc75d4374393007854403772b_249028_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;/post/last_week/Images/3.1_hu4d3afbabc75d4374393007854403772b_249028_ff6f433d3acbe52ea76f37ba5228b694.webp&#34;
                width=&#34;760&#34;
                height=&#34;418&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -808,10 +808,10 @@ So many shortcuts and long start-up.&lt;/p&gt;
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Создание и удаление letters, memos, misk&#34; srcset=&#34;
-               /https/emirenru.github.io/en/post/last_week/Images/3.3_hue8d6584a83b2092fa8dc01980a698097_246007_c4018755929ee5865c068348459da333.webp 400w,
-               /https/emirenru.github.io/en/post/last_week/Images/3.3_hue8d6584a83b2092fa8dc01980a698097_246007_b7ebc82f0a2f1039e01ba72c782af5dc.webp 760w,
-               /https/emirenru.github.io/en/post/last_week/Images/3.3_hue8d6584a83b2092fa8dc01980a698097_246007_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https//emirenru.github.io/en/https/emirenru.github.io/en/post/last_week/Images/3.3_hue8d6584a83b2092fa8dc01980a698097_246007_c4018755929ee5865c068348459da333.webp&#34;
+               /post/last_week/Images/3.3_hue8d6584a83b2092fa8dc01980a698097_246007_c4018755929ee5865c068348459da333.webp 400w,
+               /post/last_week/Images/3.3_hue8d6584a83b2092fa8dc01980a698097_246007_b7ebc82f0a2f1039e01ba72c782af5dc.webp 760w,
+               /post/last_week/Images/3.3_hue8d6584a83b2092fa8dc01980a698097_246007_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;/post/last_week/Images/3.3_hue8d6584a83b2092fa8dc01980a698097_246007_c4018755929ee5865c068348459da333.webp&#34;
                width=&#34;760&#34;
                height=&#34;420&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -839,10 +839,10 @@ So many shortcuts and long start-up.&lt;/p&gt;
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Удаление newdir &amp;#43; newdir/morefun&#34; srcset=&#34;
-               /https/emirenru.github.io/en/post/last_week/Images/3.5_hu6aa15eea4e2ed9cb1b5fb498511ea43b_247813_d95b53fdf411f4b41e4289798eb8cb02.webp 400w,
-               /https/emirenru.github.io/en/post/last_week/Images/3.5_hu6aa15eea4e2ed9cb1b5fb498511ea43b_247813_b60417a3a159247a8097cb4a8bce326f.webp 760w,
-               /https/emirenru.github.io/en/post/last_week/Images/3.5_hu6aa15eea4e2ed9cb1b5fb498511ea43b_247813_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https//emirenru.github.io/en/https/emirenru.github.io/en/post/last_week/Images/3.5_hu6aa15eea4e2ed9cb1b5fb498511ea43b_247813_d95b53fdf411f4b41e4289798eb8cb02.webp&#34;
+               /post/last_week/Images/3.5_hu6aa15eea4e2ed9cb1b5fb498511ea43b_247813_d95b53fdf411f4b41e4289798eb8cb02.webp 400w,
+               /post/last_week/Images/3.5_hu6aa15eea4e2ed9cb1b5fb498511ea43b_247813_b60417a3a159247a8097cb4a8bce326f.webp 760w,
+               /post/last_week/Images/3.5_hu6aa15eea4e2ed9cb1b5fb498511ea43b_247813_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;/post/last_week/Images/3.5_hu6aa15eea4e2ed9cb1b5fb498511ea43b_247813_d95b53fdf411f4b41e4289798eb8cb02.webp&#34;
                width=&#34;760&#34;
                height=&#34;420&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -870,10 +870,10 @@ So many shortcuts and long start-up.&lt;/p&gt;
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Просмотр man&#34; srcset=&#34;
-               /https/emirenru.github.io/en/post/last_week/Images/4.1_hu9ea4dc871864e8e0cdfcc0430e412dba_260013_f985e1c0668966366bc0e9f3074a1477.webp 400w,
-               /https/emirenru.github.io/en/post/last_week/Images/4.1_hu9ea4dc871864e8e0cdfcc0430e412dba_260013_7c60aa5128020cbad91e256b6238f026.webp 760w,
-               /https/emirenru.github.io/en/post/last_week/Images/4.1_hu9ea4dc871864e8e0cdfcc0430e412dba_260013_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https//emirenru.github.io/en/https/emirenru.github.io/en/post/last_week/Images/4.1_hu9ea4dc871864e8e0cdfcc0430e412dba_260013_f985e1c0668966366bc0e9f3074a1477.webp&#34;
+               /post/last_week/Images/4.1_hu9ea4dc871864e8e0cdfcc0430e412dba_260013_f985e1c0668966366bc0e9f3074a1477.webp 400w,
+               /post/last_week/Images/4.1_hu9ea4dc871864e8e0cdfcc0430e412dba_260013_7c60aa5128020cbad91e256b6238f026.webp 760w,
+               /post/last_week/Images/4.1_hu9ea4dc871864e8e0cdfcc0430e412dba_260013_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;/post/last_week/Images/4.1_hu9ea4dc871864e8e0cdfcc0430e412dba_260013_f985e1c0668966366bc0e9f3074a1477.webp&#34;
                width=&#34;760&#34;
                height=&#34;420&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -898,10 +898,10 @@ So many shortcuts and long start-up.&lt;/p&gt;
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Вопроизвели команду&#34; srcset=&#34;
-               /https/emirenru.github.io/en/post/last_week/Images/4.2_hua944323e991389b5580dc1f0230639ea_239035_d7c6d7d371726f04074cbca874a4fe24.webp 400w,
-               /https/emirenru.github.io/en/post/last_week/Images/4.2_hua944323e991389b5580dc1f0230639ea_239035_7efeed73cd6faf053a1be89ba690e6a9.webp 760w,
-               /https/emirenru.github.io/en/post/last_week/Images/4.2_hua944323e991389b5580dc1f0230639ea_239035_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https//emirenru.github.io/en/https/emirenru.github.io/en/post/last_week/Images/4.2_hua944323e991389b5580dc1f0230639ea_239035_d7c6d7d371726f04074cbca874a4fe24.webp&#34;
+               /post/last_week/Images/4.2_hua944323e991389b5580dc1f0230639ea_239035_d7c6d7d371726f04074cbca874a4fe24.webp 400w,
+               /post/last_week/Images/4.2_hua944323e991389b5580dc1f0230639ea_239035_7efeed73cd6faf053a1be89ba690e6a9.webp 760w,
+               /post/last_week/Images/4.2_hua944323e991389b5580dc1f0230639ea_239035_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;/post/last_week/Images/4.2_hua944323e991389b5580dc1f0230639ea_239035_d7c6d7d371726f04074cbca874a4fe24.webp&#34;
                width=&#34;760&#34;
                height=&#34;419&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -929,10 +929,10 @@ So many shortcuts and long start-up.&lt;/p&gt;
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Посмотрели на man&#34; srcset=&#34;
-               /https/emirenru.github.io/en/post/last_week/Images/5.1_hu4d645ff2fba14df69d533387c3116d67_278717_1215624b7cbc18b59beab4a048798e5e.webp 400w,
-               /https/emirenru.github.io/en/post/last_week/Images/5.1_hu4d645ff2fba14df69d533387c3116d67_278717_01a203222c5dc4bb6b6760712b615df3.webp 760w,
-               /https/emirenru.github.io/en/post/last_week/Images/5.1_hu4d645ff2fba14df69d533387c3116d67_278717_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https//emirenru.github.io/en/https/emirenru.github.io/en/post/last_week/Images/5.1_hu4d645ff2fba14df69d533387c3116d67_278717_1215624b7cbc18b59beab4a048798e5e.webp&#34;
+               /post/last_week/Images/5.1_hu4d645ff2fba14df69d533387c3116d67_278717_1215624b7cbc18b59beab4a048798e5e.webp 400w,
+               /post/last_week/Images/5.1_hu4d645ff2fba14df69d533387c3116d67_278717_01a203222c5dc4bb6b6760712b615df3.webp 760w,
+               /post/last_week/Images/5.1_hu4d645ff2fba14df69d533387c3116d67_278717_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;/post/last_week/Images/5.1_hu4d645ff2fba14df69d533387c3116d67_278717_1215624b7cbc18b59beab4a048798e5e.webp&#34;
                width=&#34;760&#34;
                height=&#34;419&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -957,10 +957,10 @@ So many shortcuts and long start-up.&lt;/p&gt;
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Вопроизвели команду&#34; srcset=&#34;
-               /https/emirenru.github.io/en/post/last_week/Images/5.2_hu4b1de79e5383bdb2a042635581f4a268_278666_90a280b93e2d0935f4233fa6611b7fff.webp 400w,
-               /https/emirenru.github.io/en/post/last_week/Images/5.2_hu4b1de79e5383bdb2a042635581f4a268_278666_d626a8879bdd28012b5349929f6198da.webp 760w,
-               /https/emirenru.github.io/en/post/last_week/Images/5.2_hu4b1de79e5383bdb2a042635581f4a268_278666_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https//emirenru.github.io/en/https/emirenru.github.io/en/post/last_week/Images/5.2_hu4b1de79e5383bdb2a042635581f4a268_278666_90a280b93e2d0935f4233fa6611b7fff.webp&#34;
+               /post/last_week/Images/5.2_hu4b1de79e5383bdb2a042635581f4a268_278666_90a280b93e2d0935f4233fa6611b7fff.webp 400w,
+               /post/last_week/Images/5.2_hu4b1de79e5383bdb2a042635581f4a268_278666_d626a8879bdd28012b5349929f6198da.webp 760w,
+               /post/last_week/Images/5.2_hu4b1de79e5383bdb2a042635581f4a268_278666_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;/post/last_week/Images/5.2_hu4b1de79e5383bdb2a042635581f4a268_278666_90a280b93e2d0935f4233fa6611b7fff.webp&#34;
                width=&#34;760&#34;
                height=&#34;417&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -988,10 +988,10 @@ So many shortcuts and long start-up.&lt;/p&gt;
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Использовали man cd&#34; srcset=&#34;
-               /https/emirenru.github.io/en/post/last_week/Images/6.1_hu9d44c8c584c54eb646a7220596e6b72a_321992_36a221e2bc8080b9649ba3499e4df5a6.webp 400w,
-               /https/emirenru.github.io/en/post/last_week/Images/6.1_hu9d44c8c584c54eb646a7220596e6b72a_321992_a6c90adc6d3f972b4ad58f2148a95026.webp 760w,
-               /https/emirenru.github.io/en/post/last_week/Images/6.1_hu9d44c8c584c54eb646a7220596e6b72a_321992_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https//emirenru.github.io/en/https/emirenru.github.io/en/post/last_week/Images/6.1_hu9d44c8c584c54eb646a7220596e6b72a_321992_36a221e2bc8080b9649ba3499e4df5a6.webp&#34;
+               /post/last_week/Images/6.1_hu9d44c8c584c54eb646a7220596e6b72a_321992_36a221e2bc8080b9649ba3499e4df5a6.webp 400w,
+               /post/last_week/Images/6.1_hu9d44c8c584c54eb646a7220596e6b72a_321992_a6c90adc6d3f972b4ad58f2148a95026.webp 760w,
+               /post/last_week/Images/6.1_hu9d44c8c584c54eb646a7220596e6b72a_321992_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;/post/last_week/Images/6.1_hu9d44c8c584c54eb646a7220596e6b72a_321992_36a221e2bc8080b9649ba3499e4df5a6.webp&#34;
                width=&#34;760&#34;
                height=&#34;422&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1016,10 +1016,10 @@ So many shortcuts and long start-up.&lt;/p&gt;
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Использовали man pwd&#34; srcset=&#34;
-               /https/emirenru.github.io/en/post/last_week/Images/6.2_hu5fbc17ff6f12de22267c7865a81ce04a_256368_635999477bd7607d68f423795c8b9117.webp 400w,
-               /https/emirenru.github.io/en/post/last_week/Images/6.2_hu5fbc17ff6f12de22267c7865a81ce04a_256368_ed48ae512c44e98bde2d1ebad48cfbc9.webp 760w,
-               /https/emirenru.github.io/en/post/last_week/Images/6.2_hu5fbc17ff6f12de22267c7865a81ce04a_256368_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https//emirenru.github.io/en/https/emirenru.github.io/en/post/last_week/Images/6.2_hu5fbc17ff6f12de22267c7865a81ce04a_256368_635999477bd7607d68f423795c8b9117.webp&#34;
+               /post/last_week/Images/6.2_hu5fbc17ff6f12de22267c7865a81ce04a_256368_635999477bd7607d68f423795c8b9117.webp 400w,
+               /post/last_week/Images/6.2_hu5fbc17ff6f12de22267c7865a81ce04a_256368_ed48ae512c44e98bde2d1ebad48cfbc9.webp 760w,
+               /post/last_week/Images/6.2_hu5fbc17ff6f12de22267c7865a81ce04a_256368_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;/post/last_week/Images/6.2_hu5fbc17ff6f12de22267c7865a81ce04a_256368_635999477bd7607d68f423795c8b9117.webp&#34;
                width=&#34;760&#34;
                height=&#34;418&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1044,10 +1044,10 @@ So many shortcuts and long start-up.&lt;/p&gt;
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Использовали man mkdir&#34; srcset=&#34;
-               /https/emirenru.github.io/en/post/last_week/Images/6.3_huba280ab38fc25eead6678763b7e7cf27_260929_c5e2b6a25289f70961889f6c80f3285d.webp 400w,
-               /https/emirenru.github.io/en/post/last_week/Images/6.3_huba280ab38fc25eead6678763b7e7cf27_260929_56cca2f3e2863e4f6f621c07f33401c9.webp 760w,
-               /https/emirenru.github.io/en/post/last_week/Images/6.3_huba280ab38fc25eead6678763b7e7cf27_260929_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https//emirenru.github.io/en/https/emirenru.github.io/en/post/last_week/Images/6.3_huba280ab38fc25eead6678763b7e7cf27_260929_c5e2b6a25289f70961889f6c80f3285d.webp&#34;
+               /post/last_week/Images/6.3_huba280ab38fc25eead6678763b7e7cf27_260929_c5e2b6a25289f70961889f6c80f3285d.webp 400w,
+               /post/last_week/Images/6.3_huba280ab38fc25eead6678763b7e7cf27_260929_56cca2f3e2863e4f6f621c07f33401c9.webp 760w,
+               /post/last_week/Images/6.3_huba280ab38fc25eead6678763b7e7cf27_260929_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;/post/last_week/Images/6.3_huba280ab38fc25eead6678763b7e7cf27_260929_c5e2b6a25289f70961889f6c80f3285d.webp&#34;
                width=&#34;760&#34;
                height=&#34;419&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1072,10 +1072,10 @@ So many shortcuts and long start-up.&lt;/p&gt;
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Использовали man rmdir&#34; srcset=&#34;
-               /https/emirenru.github.io/en/post/last_week/Images/6.4_hu8b153c74d38bb6669173ed56ea671828_258146_b0d4e5aa478f73f4d764ecf95e1dfbe2.webp 400w,
-               /https/emirenru.github.io/en/post/last_week/Images/6.4_hu8b153c74d38bb6669173ed56ea671828_258146_c7aeac02521c33af7cdcd8ebca4f6df2.webp 760w,
-               /https/emirenru.github.io/en/post/last_week/Images/6.4_hu8b153c74d38bb6669173ed56ea671828_258146_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https//emirenru.github.io/en/https/emirenru.github.io/en/post/last_week/Images/6.4_hu8b153c74d38bb6669173ed56ea671828_258146_b0d4e5aa478f73f4d764ecf95e1dfbe2.webp&#34;
+               /post/last_week/Images/6.4_hu8b153c74d38bb6669173ed56ea671828_258146_b0d4e5aa478f73f4d764ecf95e1dfbe2.webp 400w,
+               /post/last_week/Images/6.4_hu8b153c74d38bb6669173ed56ea671828_258146_c7aeac02521c33af7cdcd8ebca4f6df2.webp 760w,
+               /post/last_week/Images/6.4_hu8b153c74d38bb6669173ed56ea671828_258146_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;/post/last_week/Images/6.4_hu8b153c74d38bb6669173ed56ea671828_258146_b0d4e5aa478f73f4d764ecf95e1dfbe2.webp&#34;
                width=&#34;760&#34;
                height=&#34;420&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1100,10 +1100,10 @@ So many shortcuts and long start-up.&lt;/p&gt;
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Использовали man rm&#34; srcset=&#34;
-               /https/emirenru.github.io/en/post/last_week/Images/6.5_hu6e5474fc2f11d1fb4f7d49f0304dbe06_271750_dadb71586aaaff38d5b6a07510b3c854.webp 400w,
-               /https/emirenru.github.io/en/post/last_week/Images/6.5_hu6e5474fc2f11d1fb4f7d49f0304dbe06_271750_3214b214169ae55582aa49f561c86013.webp 760w,
-               /https/emirenru.github.io/en/post/last_week/Images/6.5_hu6e5474fc2f11d1fb4f7d49f0304dbe06_271750_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https//emirenru.github.io/en/https/emirenru.github.io/en/post/last_week/Images/6.5_hu6e5474fc2f11d1fb4f7d49f0304dbe06_271750_dadb71586aaaff38d5b6a07510b3c854.webp&#34;
+               /post/last_week/Images/6.5_hu6e5474fc2f11d1fb4f7d49f0304dbe06_271750_dadb71586aaaff38d5b6a07510b3c854.webp 400w,
+               /post/last_week/Images/6.5_hu6e5474fc2f11d1fb4f7d49f0304dbe06_271750_3214b214169ae55582aa49f561c86013.webp 760w,
+               /post/last_week/Images/6.5_hu6e5474fc2f11d1fb4f7d49f0304dbe06_271750_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;/post/last_week/Images/6.5_hu6e5474fc2f11d1fb4f7d49f0304dbe06_271750_dadb71586aaaff38d5b6a07510b3c854.webp&#34;
                width=&#34;760&#34;
                height=&#34;419&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1131,10 +1131,10 @@ So many shortcuts and long start-up.&lt;/p&gt;
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Модифицировали и исполнили&#34; srcset=&#34;
-               /https/emirenru.github.io/en/post/last_week/Images/7.2_hu8fa1c3ef02d501c31c2d1d9d1ff91c58_271919_1f6eae107fd0dc0f1e688f03bf1e5d62.webp 400w,
-               /https/emirenru.github.io/en/post/last_week/Images/7.2_hu8fa1c3ef02d501c31c2d1d9d1ff91c58_271919_49caf9cdc9d76383b44ac3c541bbb141.webp 760w,
-               /https/emirenru.github.io/en/post/last_week/Images/7.2_hu8fa1c3ef02d501c31c2d1d9d1ff91c58_271919_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https//emirenru.github.io/en/https/emirenru.github.io/en/post/last_week/Images/7.2_hu8fa1c3ef02d501c31c2d1d9d1ff91c58_271919_1f6eae107fd0dc0f1e688f03bf1e5d62.webp&#34;
+               /post/last_week/Images/7.2_hu8fa1c3ef02d501c31c2d1d9d1ff91c58_271919_1f6eae107fd0dc0f1e688f03bf1e5d62.webp 400w,
+               /post/last_week/Images/7.2_hu8fa1c3ef02d501c31c2d1d9d1ff91c58_271919_49caf9cdc9d76383b44ac3c541bbb141.webp 760w,
+               /post/last_week/Images/7.2_hu8fa1c3ef02d501c31c2d1d9d1ff91c58_271919_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;/post/last_week/Images/7.2_hu8fa1c3ef02d501c31c2d1d9d1ff91c58_271919_1f6eae107fd0dc0f1e688f03bf1e5d62.webp&#34;
                width=&#34;760&#34;
                height=&#34;419&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1169,9 +1169,9 @@ pwd: /usr/bin&lt;/li&gt;
     
     <item>
       <title>Welcome to Wowchemy, the website builder for Hugo</title>
-      <link>https//emirenru.github.io/en/post/getting-started/</link>
+      <link>/post/getting-started/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https//emirenru.github.io/en/post/getting-started/</guid>
+      <guid>/post/getting-started/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li&gt;
@@ -1248,9 +1248,9 @@ pwd: /usr/bin&lt;/li&gt;
     
     <item>
       <title>Slides</title>
-      <link>https//emirenru.github.io/en/slides/example/</link>
+      <link>/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https//emirenru.github.io/en/slides/example/</guid>
+      <guid>/slides/example/</guid>
       <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://owchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
@@ -1373,9 +1373,9 @@ $$&lt;/p&gt;
     
     <item>
       <title>Example Project</title>
-      <link>https//emirenru.github.io/en/project/example/</link>
+      <link>/project/example/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https//emirenru.github.io/en/project/example/</guid>
+      <guid>/project/example/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
 &lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
 &lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
@@ -1386,9 +1386,9 @@ $$&lt;/p&gt;
     
     <item>
       <title>An example conference paper</title>
-      <link>https//emirenru.github.io/en/publication/example/</link>
+      <link>/publication/example/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https//emirenru.github.io/en/publication/example/</guid>
+      <guid>/publication/example/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -1405,9 +1405,9 @@ $$&lt;/p&gt;
     
     <item>
       <title></title>
-      <link>https//emirenru.github.io/en/admin/config.yml</link>
+      <link>/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https//emirenru.github.io/en/admin/config.yml</guid>
+      <guid>/admin/config.yml</guid>
       <description></description>
     </item>
     
